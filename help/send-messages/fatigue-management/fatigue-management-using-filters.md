@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento da fadiga de marketing com regras de pressão
+title: Gerenciar fadiga usando filtros predefinidos
 description: Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtros.
 feature: Gerenciamento de fadiga
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 38%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
 
-# Configuração do gerenciamento de fadiga usando filtros predefinidos
+# Gerenciar fadiga usando filtros predefinidos
 
 O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients.
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtros.
