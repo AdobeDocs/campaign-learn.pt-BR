@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências entre clientes e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 42%
+source-wordcount: '300'
+ht-degree: 43%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 42%
       + [Definir propriedades do template do delivery](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Implantar um template do delivery de email ad-hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Gerenciamento de fadiga{#fatigue-management}
-      + [Usar regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [Usar filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [Regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configurar e gerenciar serviços de assinatura](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gerenciamento e automação de processos{#process-management}
    + [Criar um workflow](/help/process-management/create-a-workflow.md)
