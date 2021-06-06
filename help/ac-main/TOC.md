@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências entre clientes e fornece um ambiente para a orquestração visual de campanhas, o gerenciamento de interação em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 43%
+source-wordcount: '301'
+ht-degree: 39%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 43%
 + [Visão geral](/help/overview.md)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Instalar e configurar o cliente do Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Instalar e configurar o cliente Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Explorar a interface do usuário do Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [Gerenciar campanhas de marketing](/help/getting-started/manage-marketing-campaigns.md)
    + [Criar planos de marketing, programas e campanhas](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 43%
       + [Criar emails para capacidade de delivery](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Manual de práticas recomendadas para capacidade de delivery](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
    + SMS {#sms}
-      + [Criar uma entrega de SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Criar um delivery de SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
    + Push {#push}
       + [Instalar o canal do aplicativo móvel](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurar o canal por push usando o Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -57,7 +57,7 @@ ht-degree: 43%
    + Usar modelos de entrega{#using-delivery-templates}
       + [Configurar um template de delivery](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Definir propriedades do template do delivery](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implantar um template do delivery de email ad-hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Implantar um template do delivery de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
