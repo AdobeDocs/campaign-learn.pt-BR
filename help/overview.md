@@ -6,10 +6,10 @@ feature: Visão geral
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 14%
+source-wordcount: '271'
+ht-degree: 20%
 
 ---
 
@@ -19,8 +19,59 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 >[!NOTE]
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração de um ambiente Campaign Classic v7 existente ainda não está disponível.
->Consulte a documentação do produto [Classic v7 to V8](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/capability-matrix.html?lang=en#start) para obter mais informações sobre as diferenças das duas versões. Consulte também a seção [tutoriais do Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) para saber como fazer vídeos.
+>Consulte a documentação do produto [Classic v7 to V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) para obter mais informações sobre as diferenças das duas versões. Consulte também a seção [tutoriais do Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) para saber como fazer vídeos.
 
 ## Novidades
 
-[Principais recursos](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/whats-new.html?lang=en#start)
+[Principais recursos](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+
+## Escolha de pessoal
+
+<table>
+<tr>
+  <td>
+    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <img alt="Criar um plano de marketing, programa e campanhas (vídeo)" src="./assets/333810.jpg"/>
+    </a>
+    <div>
+      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <strong>Criar um plano de marketing</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba como criar um plano de marketing, programa e campanha.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./content-creation/create-and-design-email-deliveries.md">
+      <img alt="Criar e projetar deliveries de email (vídeo)" src="./assets/333476.jpg" />
+    </a>
+    <div>
+      <a href="../content-creation/create-and-design-email-deliveries.md">
+    <strong>Criar e projetar deliveries de email</strong>
+    </a>
+    </div> 
+    <p>
+    <em>Entenda o processo de criação de delivery de email e saiba como projetar e personalizar conteúdo de email.
+</em>
+    <p>
+  </td>
+  <td>
+    <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
+      <img alt="Gerenciar fadiga usando regras de tipologia (vídeo)" src="./assets/333787.jpg" />
+    </a>
+    <div>
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+    <strong>Gerenciar fadiga usando regras de tipologia</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia.  </em>
+    <p>
+  </td>
+</tr>
+</table>
+
+## Recursos adicionais
+
+* [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html)
