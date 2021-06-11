@@ -12,15 +12,15 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # Criar campanhas entre canais
 
-Em uma campanha entre canais, uma única comunicação de marketing usa vários canais para alcançar um público-alvo mais amplo com base no canal de recipient preferido.
+Em uma campanha entre canais, uma única comunicação de marketing utiliza vários canais para alcançar um público-alvo mais amplo com base no canal de recipient preferido.
 
-Saiba como criar uma campanha entre canais usando email, SMS e delivery de mala direta.
+Saiba como criar uma campanha entre canais utilizando email, SMS e entrega de correspondência direta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
