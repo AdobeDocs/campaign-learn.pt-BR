@@ -1,7 +1,7 @@
 ---
-title: Estender o esquema de assinatura do aplicativo para personalizar notificações por push
-description: Saiba como estender o esquema de assinatura do aplicativo para armazenar valores de personalização que o Campaign recebe de um aplicativo móvel.
-feature: Extensão Push, Schema
+title: Estender o esquema de subscrição do aplicativo para personalizar notificações por push
+description: Saiba como estender o esquema de subscrição do aplicativo para armazenar valores de personalização que o Campaign recebe de um aplicativo para dispositivos móveis.
+feature: Push, Extensão de esquema
 kt: 7967
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -10,19 +10,19 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Extensão do esquema [!UICONTROL app subscription] para personalizar notificações por push
+# Extensão do esquema de [!UICONTROL subscrição de aplicativo] para personalizar notificações por push
 
-Saiba como estender o esquema [!UICONTROL app subscription] para poder armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo móvel.
+Saiba como estender o esquema [!UICONTROL subscrição de aplicativo] para poder armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo para dispositivos móveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 **Próxima etapa**
 
-Etapa 2: [Configure um serviço Android™ e crie um aplicativo Android™ para dispositivos móveis no Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+Etapa 2: [configurar um serviço Android™ e criar um aplicativo Android™ para dispositivos móveis no Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
