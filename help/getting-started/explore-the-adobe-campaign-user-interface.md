@@ -1,5 +1,5 @@
 ---
-title: 'Explorar a interface do usuário do Adobe Campaign '
+title: Explorar a interface do usuário do Adobe Campaign
 description: Conheça a interface do usuário do Adobe Campaign e saiba como navegar pela funcionalidade principal.
 feature: Visão geral
 kt: 7828
@@ -14,11 +14,11 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# Explorar a interface do usuário do Adobe Campaign 
+# Explorar a interface do usuário do Adobe Campaign
 
 Conheça a interface do usuário do Adobe Campaign e saiba como navegar pela funcionalidade principal.
 
