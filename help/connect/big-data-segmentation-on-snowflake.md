@@ -1,6 +1,6 @@
 ---
 title: Gestão de big data no Snowflake
-description: Saiba como aproveitar o conector Snowflake no Adobe Campaign V8
+description: Saiba como usar o conector do Snowflake no Adobe Campaign V8
 feature: Federated Data Access
 kt: 7780
 doc-type: feature video
@@ -11,15 +11,15 @@ level: Experienced
 hide: true
 hidefromtoc: true
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# Gestão de big data no Snowflake
+# Gerenciamento de big data no Snowflake
 
-Este tutorial explica como aproveitar o conector [!DNL Snowflake] no Adobe Campaign V8.
+Este tutorial explica como usar o conector do [!DNL Snowflake] no Adobe Campaign V8.
 Você aprenderá a
 
 * Conectar-se ao Snowflake
