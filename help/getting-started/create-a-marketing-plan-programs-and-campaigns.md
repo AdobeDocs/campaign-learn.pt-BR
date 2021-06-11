@@ -12,14 +12,14 @@ level: beginner
 source-git-commit: f4f919cdf3dc843c1b87d1b596ae317c5c7fbb98
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 
 # Criar planos de marketing, programas e campanhas
 
-Saiba como criar um plano de marketing, programa e campanha, definir as propriedades de uma campanha e usar a programação.
-O vídeo o orienta por um exercício que pode ser seguido em sua própria instância.
+Descubra como criar um plano de marketing, programa e campanha; além disso, aprenda a definir as propriedades de uma campanha e saiba utilizar a programação.
+O vídeo orienta você durante um exercício que pode ser seguido na própria instância do usuário.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12)
