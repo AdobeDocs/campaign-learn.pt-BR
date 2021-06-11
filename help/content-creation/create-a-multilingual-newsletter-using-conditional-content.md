@@ -1,6 +1,6 @@
 ---
 title: Criar um informativo multilíngue usando conteúdo condicional
-description: Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilíngue.
+description: Saiba como adicionar conteúdo condicional a uma entrega no caso de um informativo multilíngue.
 feature: Conteúdo dinâmico
 kt: 7792
 thumbnail: 24926.jpg
@@ -10,9 +10,9 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 75%
 
 Ao configurar campos de conteúdo condicional, você pode criar personalização avançada. Quando uma determinada condição é atendida, blocos de texto e/ou imagens completas são substituídas.
 
-Saiba como adicionar conteúdo condicional a um delivery no exemplo de um informativo multilíngue.
+Saiba como adicionar conteúdo condicional a uma entrega no caso de um informativo multilíngue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
