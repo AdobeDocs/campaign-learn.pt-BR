@@ -12,7 +12,7 @@ level: Beginner
 source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 14%
+ht-degree: 73%
 
 ---
 
@@ -27,5 +27,5 @@ Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras
 
 ## Recursos adicionais
 
-* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
-* [Gerenciamento da fadiga de marketing com regras de pressão](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=en)
+* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR)
+* [Gerenciamento da fadiga de marketing com regras de pressão](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=pt-BR)
