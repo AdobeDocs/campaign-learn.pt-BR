@@ -12,7 +12,7 @@ level: Experienced
 source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 31%
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,4 @@ Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtro
 
 ## Recursos adicionais
 
-* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
+* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR)
