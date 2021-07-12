@@ -7,15 +7,15 @@ thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
 ---
-
 
 # Usar a atividade de atualização de lista para criar uma lista com um fluxo de trabalho
 
