@@ -1,22 +1,22 @@
 ---
 title: Importar perfis
-description: 'Saiba como importar perfis no Adobe Campaign '
+description: Saiba como importar perfis no Adobe Campaign
 feature: Perfis
 kt: 7968
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: c19d1e3b-7df4-454d-b59f-49385eecea62
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 
 ---
-
 
 # Importar perfis
 
