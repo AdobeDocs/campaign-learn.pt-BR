@@ -6,15 +6,15 @@ kt: 7991
 doc-type: feature video
 activity: setup
 team: TM
-role: Business Practitioner
+role: User
 level: Experienced
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
 
 ---
-
 
 # Criar workflows de validação
 
@@ -29,19 +29,19 @@ Antes de ativar as etapas de aprovação, a equipe de marketing deve definir rev
 * A função de revisor do Adobe Campaign em uma atividade de aprovação pode ser um único revisor (Operador) ou um grupo de revisores (função Operador).
 * Para permitir que os desenvolvedores de campanha selecionem os revisores como aprovadores em uma campanha ou entrega, os revisores e os grupos de revisores devem ser configurados no Adobe Campaign por um administrador.
 
-## Configuração de aprovações para campanhas {#configuring-approvals-for-campaigns}
+## Configuração de aprovações para campanhas   {#configuring-approvals-for-campaigns}
 
 Se você tiver o mesmo conjunto de revisores para todas as entregas no fluxo de trabalho da campanha, aplique a funcionalidade de aprovação da campanha configurando aprovações e revisores no nível da campanha. As tarefas de aprovação e os revisores são encaminhados para cada atividade de entrega do fluxo de trabalho depois que o fluxo de trabalho é executado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
-## Configuração de aprovações para entregas {#configuring-approvals-for-deliveries}
+## Configuração de aprovações para entregas   {#configuring-approvals-for-deliveries}
 
 Você também pode configurar aprovações em um nível de entrega. Se as etapas de aprovação de entrega e os revisores forem diferentes das etapas de aprovação da campanha e dos revisores, as configurações de entrega substituirão as configurações da campanha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## Configuração de uma atividade de aprovação {#configuring-an-approval-activity}
+## Configuração de uma atividade de aprovação   {#configuring-an-approval-activity}
 
 Diferentemente das aprovações de entrega ou campanha, a atividade de aprovação permite criar um processo de aprovação em um fluxo de trabalho. Dessa forma, a lógica de seleção de direcionamento pode ser aprovada antes que a entrega seja iniciada. Ela também permite a aprovação em vários níveis no fluxo de trabalho, se necessário.
 
