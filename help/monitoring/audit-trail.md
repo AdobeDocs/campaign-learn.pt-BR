@@ -1,20 +1,20 @@
 ---
 title: Trilha de auditoria
-description: 'Saiba como acessar os logs da Trilha de auditoria e quais configurações podem ser definidas. '
+description: Saiba como acessar os logs da Trilha de auditoria e quais configurações podem ser definidas.
 feature: Trilha de auditoria
 kt: 7969
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
 ---
-
 
 # Trilha de auditoria
 
