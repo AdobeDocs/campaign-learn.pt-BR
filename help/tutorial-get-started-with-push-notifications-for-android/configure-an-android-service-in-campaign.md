@@ -7,15 +7,15 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
 ---
-
 
 # Configure um serviço [!DNL Android™] e crie um aplicativo para dispositivos móveis [!DNL Android™] no Campaign
 
