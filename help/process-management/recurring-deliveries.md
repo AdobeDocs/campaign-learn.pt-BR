@@ -6,15 +6,15 @@ kt: 7982
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
 ---
-
 
 # Como configurar campanhas de email recorrentes e contínuas
 
