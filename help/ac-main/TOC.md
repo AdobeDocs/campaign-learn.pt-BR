@@ -5,10 +5,10 @@ user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 95%
+source-wordcount: '296'
+ht-degree: 91%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 95%
 
 + [Visão geral](/help/overview.md)
 + Introdução {#getting-started}
-   + [Introdução ao Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Instalar e configurar o cliente Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Explorar a interface do usuário do Adobe Campaign](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Gerenciar campanhas de marketing](/help/getting-started/manage-marketing-campaigns.md)
-   + [Criar planos de marketing, programas e campanhas](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Criar campanhas acionadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Introdução ao Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Instalar e configurar o cliente Adobe Campaign](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Explorar a interface do usuário do Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Gerenciar campanhas de marketing](/help/get-started/manage-marketing-campaigns.md)
+   + [Criar planos de marketing, programas e campanhas](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Criar campanhas acionadas por evento](/help/get-started/create-event-triggered-campaigns.md)
 + Gerenciamento de perfil {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
    + [Direcionar perfis em um fluxo de trabalho](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 95%
 + Gerenciamento e automatização de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar deliveries recorrentes e contínuos](/help/process-management/recurring-deliveries.md)
-   + [Criar um fluxo de trabalho de direcionamento](/help/process-management/create-a-targeting-workflow.md)
-   + [Usar a atividade de atualização de lista para criar uma lista com um fluxo de trabalho](/help/process-management/use-the-update-list-activity.md)
+   + [Criar workflows para construção do target](/help/process-management/create-a-targeting-workflow.md)
    + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Criar workflows de validação](/help/process-management/create-validation-workflows.md)
    + [Gerenciar aprovações](/help/process-management/manage-approvals.md)
+   + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
    + [Configurar atividades do enriquecimento](/help/process-management/enrichment-activity.md)
 + Gerenciamento de dados {#data-management}
    + [Importar perfis](/help/data-management/import-profiles.md)
