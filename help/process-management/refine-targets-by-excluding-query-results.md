@@ -1,6 +1,6 @@
 ---
 title: Refinar targets excluindo resultados de consulta
-description: Saiba como refinar seu público-alvo aplicando uma exclusão padrão a um fluxo de trabalho e como criar filtros predefinidos e como solucionar problemas do fluxo de trabalho.
+description: Saiba como refinar seu público-alvo aplicando um  exclusão padrão em um workflow. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 feature: Workflows, Atividade de direcionamento, Editor de consultas
 kt: 7845
 thumbnail: 335609.jpg
@@ -10,16 +10,16 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
+source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 46%
+source-wordcount: '96'
+ht-degree: 47%
 
 ---
 
 # Refinar targets excluindo resultados de consulta
 
-Saiba como refinar seu público-alvo aplicando um **[!UICONTROL exclusão padrão]** a um fluxo de trabalho e como criar filtros predefinidos e como solucionar problemas do seu fluxo de trabalho.
+Saiba como refinar seu público-alvo aplicando um  exclusão padrão em um workflow. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
