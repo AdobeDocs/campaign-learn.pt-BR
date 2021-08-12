@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 >[!NOTE]
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração de um ambiente Campaign Classic v7 existente ainda não está disponível.
->Consulte a [documentação do produto Classic v7 to V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) para obter mais informações sobre as diferenças das duas versões. Consulte também a seção [tutoriais do Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) para obter vídeos de instruções.
+>Consulte a [documentação do produto Classic v7 to V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=pt-BR) para obter mais informações sobre as diferenças das duas versões. Consulte também a seção [tutoriais do Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) para obter vídeos de instruções.
 
 ## Novidades
 
-[Principais recursos](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Principais recursos](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=pt-BR)
 
-## Escolha de pessoal
+## Escolhas da equipe
 
 <table>
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="Criar um plano de marketing, programa e campanhas (vídeo)" src="./assets/333810.jpg"/>
+      <img alt="Criar campanhas, um programa e um plano de marketing (vídeo)" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
@@ -39,12 +39,12 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Saiba como criar um plano de marketing, programa e campanha.</em>
+    <em>Saiba como criar campanhas, um programa e um plano de marketing.</em>
     <p>
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Criar e projetar deliveries de email (vídeo)" src="./assets/333476.jpg" />
+      <img alt="Criar e projetar entregas de email (vídeo)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
@@ -52,7 +52,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div> 
     <p>
-    <em>Entenda o processo de criação de delivery de email e saiba como projetar e personalizar conteúdo de email.
+    <em>Entenda o processo de criação de entrega de email e saiba como projetar e personalizar conteúdo de email.
 </em>
     <p>
   </td>
@@ -66,7 +66,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia.  </em>
+    <em>Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Saiba como gerar um [!UICONTROL relatório de análise descritiva] a partir de um workflow.</em>
+    <em>Saiba como gerar um relatório de análise descritiva de um fluxo de trabalho.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Recursos adicionais
 
-* [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR)
