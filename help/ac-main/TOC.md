@@ -6,9 +6,9 @@ user-guide-description: O Adobe Campaign permite que os profissionais de marketi
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 + [Visão geral](/help/overview.md)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Instalar e configurar o Console do cliente do Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Instalar e configurar o console do cliente do Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Explorar a interface do usuário do Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gerenciar campanhas de marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Criar planos de marketing, programas e campanhas](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [Projetar emails para capacidade de entrega](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
    + SMS {#sms}
-      + [Criar um delivery de SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Crie uma entrega de SMS.](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalação do canal de aplicativo móvel](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurar o canal por push utilizando o SDK móvel da Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -65,18 +65,18 @@ ht-degree: 90%
 + Gerenciamento e automatização de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar deliveries recorrentes e contínuos](/help/process-management/recurring-deliveries.md)
-   + [Criar workflows para construção do target](/help/process-management/create-a-targeting-workflow.md)
+   + [Criar fluxos de trabalho para direcionamento](/help/process-management/create-a-targeting-workflow.md)
    + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Criar workflows de validação](/help/process-management/create-validation-workflows.md)
    + [Gerenciar aprovações](/help/process-management/manage-approvals.md)
    + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
-   + [Configurar atividades do enriquecimento](/help/process-management/enrichment-activity.md)
+   + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
 + Gerenciamento de dados {#data-management}
    + [Importar perfis](/help/data-management/import-profiles.md)
    + [Replicação de dados](/help/data-management/data-replication.md)
 + Conectar-se a outras soluções {#connect}
-   + [Gestão de big data no Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
+   + [Gerenciamento de big data no Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integração com o Dynamics 365](/help/connect/dynamics365-integration.md)
 + Relatórios {#reporting}
    + [Acessar relatórios integrados](/help/reporting/access-built-in-reports.md)
