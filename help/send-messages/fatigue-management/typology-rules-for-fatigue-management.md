@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # Gerenciar fadiga usando regras de tipologia
 
-O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva de recipients e é aplicado com frequência usando uma regra de tipologia.
+O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva a destinatários e é aplicado com frequência usando uma regra de tipologia.
 
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia.
 
