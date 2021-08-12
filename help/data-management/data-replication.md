@@ -11,7 +11,7 @@ level: Experienced
 source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Entenda quais bancos de dados o Adobe Campaign V8 usa, por que os dados estão s
 
 ## Recursos adicionais
 
-* [Replicação de dados (Documentação)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=en#data-replication)
+* [Replicação de dados (Documentação)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=pt-BR#data-replication)
