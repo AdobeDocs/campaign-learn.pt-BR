@@ -1,6 +1,6 @@
 ---
-title: Refinar targets excluindo resultados de consulta
-description: Saiba como refinar seu público-alvo aplicando um  exclusão padrão em um workflow. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
+title: Refinar direcionamentos excluindo resultados de consulta
+description: Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 feature: Workflows, Atividade de direcionamento, Editor de consultas
 kt: 7845
 thumbnail: 335609.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 # Refinar targets excluindo resultados de consulta
 
-Saiba como refinar seu público-alvo aplicando um  exclusão padrão em um workflow. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
+Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
