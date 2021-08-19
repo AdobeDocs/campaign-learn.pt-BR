@@ -5,10 +5,10 @@ feature: Painel de controle do Campaign
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 31%
 
 ---
 
@@ -18,7 +18,7 @@ O GPG (GnuPG) criptografa mensagens usando pares de chaves individuais assimétr
 
 Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância [!DNL Campaign] especificada.
 
-1. [Gerar e instalar chaves GPG para criptografia de dados](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [Gerar e instalar chaves GPG para criptografia de dados](./generate-and-install-gpg-keys.md)
 2. [Usar uma chave GPG para criptografar dados](./use-a-gpg-key-to-encrypt-data.md)
 3. [Descriptografar dados](./decrypt-data.md)
 
