@@ -7,10 +7,10 @@ index: true
 feature: Painel de controle do Campaign
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 45%
+source-wordcount: '102'
+ht-degree: 48%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 45%
       + [Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Monitoramento de desempenho {#performance-monitoring}
    + [Monitorar bancos de dados](/help/control-panel-tutorials/performance-monitoring/monitor-databases.md)
-+ [Solução de problemas do Painel de controle do Campaign](/help/control-panel-tutorials/trouble-shooting.md)
++ [Solução de problemas](/help/control-panel-tutorials/troubleshooting.md)
