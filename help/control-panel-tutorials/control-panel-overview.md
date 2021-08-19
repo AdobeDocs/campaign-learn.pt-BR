@@ -1,23 +1,23 @@
 ---
 title: Painel de controle do Campaign    - Visão geral
-description: O Painel de controle do Adobe Campaign permite que os administradores da Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
-landing-page-description: O Painel de controle do Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP, chaves GPG ou subdomínios e certificados.
+description: O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
+landing-page-description: O Painel de controle do Adobe Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
 feature: Painel de controle do Campaign
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 54%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
 # Visão geral do Painel de controle do Campaign
 
-O Painel de controle do Adobe Campaign permite que os administradores da Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
 
 ## Escolhas da equipe
 
