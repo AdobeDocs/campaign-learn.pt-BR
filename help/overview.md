@@ -6,10 +6,10 @@ feature: Visão geral
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 84%
+source-wordcount: '380'
+ht-degree: 77%
 
 ---
 
@@ -27,6 +27,10 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 ## Novidades
 
 Visão geral sobre os [Principais recursos](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=pt-BR)do Adobe Campaign v8.
+
+* **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+
+   *Saiba como monitorar os principais ativos e executar tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.*
 
 ## Escolhas da equipe
 
