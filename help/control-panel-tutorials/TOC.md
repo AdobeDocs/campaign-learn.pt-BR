@@ -7,17 +7,17 @@ index: true
 feature: Painel de controle do Campaign
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Painel de controle do Adobe Campaign – Tutoriais {#control-panel}
 
-+ [Visão geral do Painel de controle do Campaign](/help/control-panel-tutorials/control-panel-overview.md)
++ [Visão geral](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introdução ao Painel de controle do Campaign](/help/control-panel-tutorials/get-started.md)
 + Gerenciamento de SFTP {#sftp-management}
    + [Monitorar a capacidade do servidor](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [Adicionar endereços IP ao lista de permissões](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Adicionar permissões de URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Gerenciamento de chaves GPG {#gpg-key-management}
-      + [Gerenciamento de chaves GPG – visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Gerar e instalar chaves GPG](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Monitoramento de desempenho {#performance-monitoring}
