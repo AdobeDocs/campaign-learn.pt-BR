@@ -9,7 +9,7 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
 ht-degree: 100%
 
