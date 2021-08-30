@@ -1,7 +1,7 @@
 ---
-title: Painel de controle do Campaign    - Visão geral
-description: O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
-landing-page-description: O Painel de controle do Adobe Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
+title: Painel de controle do Campaign - Visão geral
+description: O Painel de controle do Campaign permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou gerenciar chaves GPG.
+landing-page-description: O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou gerenciar chaves GPG.
 feature: Painel de controle do Campaign
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
-# Visão geral do Painel de controle do Campaign
+# Painel de controle do Campaign - Visão geral
 
-O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.
+O Painel de controle do Campaign permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou gerenciar chaves GPG.
 
 ## Escolhas da equipe
 
@@ -33,7 +33,7 @@ O Painel de controle do Campaign permite que os administradores da Adobe Campaig
     </a>
     </div>
     <p>
-    <em>Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.  </em>
+    <em>Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign. </em>
     <p>
   </td>
   <td>
@@ -46,7 +46,7 @@ O Painel de controle do Campaign permite que os administradores da Adobe Campaig
     </a>
     </div>
     <p>
-    <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign. </em>
+    <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, com as chaves que você armazenou no Painel de controle do Campaign. </em>
     <p>
   </td>
   <td>
@@ -67,4 +67,4 @@ O Painel de controle do Campaign permite que os administradores da Adobe Campaig
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)
+* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
