@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign V8.
 
 >[!INFO]
-> Você tem perguntas? Gostaria de compartilhar sua experiência ou trocar ideias com seus colegas? Ou você tem feedback sobre o conteúdo de aprendizado da equipe do Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096).
 
 >[!NOTE]
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração de um ambiente Campaign Classic v7 existente ainda não está disponível.
@@ -26,7 +26,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)**
 
    *Saiba como monitorar os principais ativos e executar tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.*
 
