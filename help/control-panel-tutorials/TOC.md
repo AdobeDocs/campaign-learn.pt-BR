@@ -8,24 +8,24 @@ feature: Painel de controle do Campaign
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 
-# Painel de controle do Adobe Campaign – Tutoriais {#control-panel}
+# Painel de controle do Adobe Campaign — Tutoriais {#control-panel}
 
 + [Visão geral](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introdução ao Painel de controle do Campaign](/help/control-panel-tutorials/get-started.md)
 + Gerenciamento de SFTP {#sftp-management}
    + [Monitorar a capacidade do servidor](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [Lista de permissões intervalos IP](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
+   + [Lista de permissões de intervalos IP](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [Gerar uma chave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conectar-se a um servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Configurações de instância {#instance-settings}
-   + [Lista de permissões endereços IP](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
+   + [Lista de permissões de endereços IP](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [Adicionar permissões de URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Gerenciamento de chaves GPG {#gpg-key-management}
       + [Visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
