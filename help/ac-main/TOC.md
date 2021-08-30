@@ -6,9 +6,9 @@ user-guide-description: O Adobe Campaign permite que os profissionais de marketi
 breadcrumb-title: Tutoriais
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ ht-degree: 96%
    + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Trilha de auditoria](/help/monitoring/audit-trail.md)
 + Administração {#administration}
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)
+   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)
