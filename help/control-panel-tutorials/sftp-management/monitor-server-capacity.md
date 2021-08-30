@@ -1,6 +1,6 @@
 ---
 title: Monitorar a capacidade do servidor
-description: Saiba como monitorar e gerenciar o armazenamento SFTP por instância e adicionar endereços IP ao lista de permissões.
+description: Saiba como monitorar e gerenciar o armazenamento SFTP por instância e adicionar endereços IP à lista de permissões.
 feature: Painel de controle do Campaign
 audience: administrator
 kt: 8510
@@ -11,9 +11,9 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância.
 
-## Acesso ao [!UICONTROL Gerenciamento de subdomínio do Painel de controle]
+## Acesso ao gerenciamento de subdomínio do [!UICONTROL Painel de controle do Campaign]
 
-Para acessar o gerenciamento de subdomínio no [!UICONTROL Painel de controle], acesse:
+Para acessar o Gerenciamento de subdomínio no [!UICONTROL Painel de controle do Campaign], acesse:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home)  > Seletor  [!UICONTROL de soluções]:  [!UICONTROL Campanha]  >  **[!UICONTROL Cartão de]** painel de controle >  **[!UICONTROL Subdomínios e]** cartões de certificados
+* [Página inicial da Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Seletor de solução]: [!UICONTROL Campaign] > **[!UICONTROL Painel de controle do Campaign]** cartão > **[!UICONTROL Subdomínios &amp; Certificados]** cartão
 
    ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitore a capacidade do servidor, [!UICONTROL lista de permissões ] endereços IP e adicione chaves SSH
+## Monitorar a capacidade do servidor, a [!UICONTROL lista de permissões] de endereços IP e adicionar chaves SSH.
 
-Saiba como monitorar a capacidade de armazenamento de seus servidores SFTP.
+Saiba como monitorar a capacidade de armazenamento dos servidores SFTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
