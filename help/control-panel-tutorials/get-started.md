@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Painel de controle do Campaign
-description: Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.
+description: Saiba como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o Painel de controle do Campaign.
 feature: Painel de controle do Campaign
 kt: 8509
 thumbnail: kt-6385.jpg
@@ -10,28 +10,28 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
-# Introdução ao [!UICONTROL Painel de controle] {#control-panel}
+# Introdução ao [!UICONTROL Painel de controle do Campaign] {#control-panel}
 
-O [!UICONTROL Painel de controle] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar chaves [!DNL GPG] ou [!UICONTROL subdomínios] e [!UICONTROL certificados].
+O [!UICONTROL Painel de controle do Campaign] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o [!DNL SFTP] armazenamento por instância, gerenciar [!DNL GPG] chaves ou [!UICONTROL subdomínios] e [!UICONTROL certificados].
 
-Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle do Campaign.
+Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o Painel de controle do Campaign.
 
-## Acesso ao [!UICONTROL Painel de Controle]
+## Acesso ao [!UICONTROL Painel de controle do Campaign]
 
-O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de Administrador a um usuário estão detalhadas na [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel).
+O Painel de controle do Campaign é acessível a todos os usuários administradores. As etapas para conceder acesso de administrador a um usuário são detalhadas na [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=br#discover-control-panel).
 
-Para acessar o Painel de controle do Campaign, vá para a página inicial do Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acessar o Painel de controle do Campaign, vá até a página inicial da Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Página inicial do Experience Cloud]**  > Acesso  **[!UICONTROL rápido]**
+* **[!UICONTROL Página inicial da Experience Cloud]** > **[!UICONTROL Acesso rápido]**
 
    ou
-* **[!UICONTROL Experience Cloud Home]**   > Seletor  [!UICONTROL de soluções]:  **Campanha**  >  **[!UICONTROL Control ] Panelcard**
+* **[!UICONTROL Página inicial da Experience Cloud]**  > [!UICONTROL Seletor de solução]: **Campaign** > **[!UICONTROL Painel de controle do Campaign]cartão**
 
    ou
 
@@ -49,11 +49,11 @@ O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua 
 
 ### Direitos de administrador
 
-Os direitos de administrador são necessários para acessar o [!UICONTROL Painel de controle].
+Direitos de administrador são necessários para acessar o [!UICONTROL Painel de controle do Campaign].
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)
+* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
