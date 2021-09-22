@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 3d4412fb770d998171a2c3713e1b8a4d9422ac8e
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Saiba como consultar dados usando diferentes targeting dimension e dimensões de
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Próxima etapa: [Junte-se às colunas e envie delivery de e-mail](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md))
+Próxima etapa: [Associe-se às colunas e envie delivery de e-mail](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
