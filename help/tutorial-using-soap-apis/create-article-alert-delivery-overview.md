@@ -1,5 +1,5 @@
 ---
-title: Criar um delivery de email "novo alerta de artigo" para assinantes - Visão geral
+title: Criar um delivery de alerta de artigo - Visão geral
 description: Saiba como criar um workflow que alerta os recipients de quaisquer novos artigos que eles assinaram por meio de um delivery de email.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Criar um delivery de email &quot;novo alerta de artigo&quot; para assinantes - Visão geral
+# Criar um delivery de alerta de artigo - Visão geral
 
 Saiba como criar um workflow que alerta os recipients de quaisquer novos artigos que eles assinaram por meio de um delivery de email.
 
