@@ -6,7 +6,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 91%
@@ -26,7 +26,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Tutorial: Uso de APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Tutorial: Usar APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
 
    *Saiba como usar as APIs do Adobe Campaign Soap e criar um workflow de delivery avançado com base nos dados recebidos por meio da API.*
 * **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)**
