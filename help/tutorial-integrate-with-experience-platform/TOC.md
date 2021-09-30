@@ -3,7 +3,7 @@ user-guide-title: Integrar com o Experience Platform
 user-guide-description: Saiba como importar e exportar dados do Campaign e do Experience Cloud, permitindo a comunicação entre as duas soluções.
 breadcrumb-title: Integrar com o Experience Platform
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/overview.html
-source-git-commit: c4309466a6b763f86e696c803b710c44e6abeffa
+source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -14,10 +14,10 @@ ht-degree: 1%
 # Integrar com o Experience Platform {#integrate-with-experience-platform}
 
 + [Visão geral](/help/tutorial-integrate-with-experience-platform/overview.md)
-+ [Importar dados do Experience Platform para o Campaign]{#import-experience-platform-data-into-campaign}
++ Importar dados do Experience Platform para o Campaign{#import-experience-platform-data-into-campaign}
    + [Conectar o Campaign ao Experience Platform como destino](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [Importar dados do recipient do Experience Platform e enviar um email](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
-+ [Exportar Logs De Campanha Para O Experience Platform]{#export-campaign-logs-into-experience-platform}
++ Exportar logs de campanha para  Experience Platform{#export-campaign-logs-into-experience-platform}
    + [Criar um workflow de exportação (Parte 1)](/help/tutorial-integrate-with-experience-platform/workflow-to-find-last-modified-date.md)
    + [Criar um workflow de exportação (Parte 2)](/help/tutorial-integrate-with-experience-platform/extract-format-save-data-to-external-account.md)
    + [Criar um esquema de logs de campanha e um conjunto de dados no Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)
