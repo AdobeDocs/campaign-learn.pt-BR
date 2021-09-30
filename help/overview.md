@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 91%
+source-wordcount: '424'
+ht-degree: 85%
 
 ---
 
@@ -26,9 +26,14 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
+* **[Integrar com o Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
+
+   *Saiba como importar e exportar dados do Campaign e do Experience Cloud, permitindo a comunicação entre as duas soluções.*
+
 * **[Tutorial: Usar APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
 
    *Saiba como usar as APIs do Adobe Campaign Soap e criar um workflow de delivery avançado com base nos dados recebidos por meio da API.*
+
 * **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)**
 
    *Saiba como monitorar os principais ativos e executar tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou o gerenciamento de chaves GPG.*
