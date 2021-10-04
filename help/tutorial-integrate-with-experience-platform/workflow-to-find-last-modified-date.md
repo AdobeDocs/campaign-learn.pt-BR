@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
+exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Criar um workflow de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
 
