@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Integrar com o Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
+* **[Integrar com a Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=pt-BR)**
 
-   *Saiba como importar e exportar dados do Campaign e do Experience Cloud, permitindo a comunicação entre as duas soluções.*
+   *Saiba como importar e exportar dados do Campaign e da Experience Cloud, permitindo a comunicação entre as duas soluções.*
 
-* **[Tutorial: Usar APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Tutorial: usar APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=pt-BR)**
 
-   *Saiba como usar as APIs do Adobe Campaign Soap e criar um workflow de delivery avançado com base nos dados recebidos por meio da API.*
+   *Saiba como usar as APIs Soap do Adobe Campaign e criar um fluxo de trabalho de delivery avançado com base nos dados recebidos por meio da API.*
 
 * **[Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)**
 
