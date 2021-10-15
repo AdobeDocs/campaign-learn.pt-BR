@@ -5,9 +5,9 @@ user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '338'
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 + Gerenciamento de dados {#data-management}
    + [Importar perfis](/help/data-management/import-profiles.md)
    + [Replicação de dados](/help/data-management/data-replication.md)
-   + [Tutorial: Usar APIs SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [Tutorial: Uso de APIs SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=pt-BR)
 + Conectar-se a outras soluções {#connect}
    + [Gerenciamento de big data no Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integração com o Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Integrar com o Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integração com a Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=pt-BR)
 + Relatórios {#reporting}
    + [Acessar relatórios integrados](/help/reporting/access-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generate-a-descriptive-analysis-report.md)
