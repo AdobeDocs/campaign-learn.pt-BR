@@ -1,6 +1,6 @@
 ---
-title: Artigos de query e valores de subscrição do recipient
-description: Saiba como consultar dados usando diferentes targeting dimension e dimensões de filtro e como unir os resultados usando uma interseção para o caso de uso de criação de um delivery de resumo de conteúdo automatizado.
+title: Artigos de query e valores de assinaturas de recipients
+description: Saiba como consultar dados usando diferentes dimensões de direcionamento e filtragem. Veja também como unir os resultados usando uma interseção para criar um delivery automatizado de resumo de conteúdo.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8166
 thumbnail: 336537.jpg
@@ -9,18 +9,18 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Artigos de query e valores de assinaturas de recipients
 
-# Artigos de query e valores de subscrição do recipient
-
-Saiba como consultar dados usando diferentes targeting dimension e dimensões de filtro e como unir os resultados usando uma interseção para o caso de uso de criação de um delivery de resumo de conteúdo automatizado.
+Saiba como consultar dados usando diferentes dimensões de direcionamento e filtragem. Veja também como unir os resultados usando uma interseção para criar um delivery automatizado de resumo de conteúdo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Próxima etapa: [Enviar um delivery para os recipients subscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+Próxima etapa: [Enviar um delivery para recipients inscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
