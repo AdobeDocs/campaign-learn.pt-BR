@@ -1,6 +1,6 @@
 ---
-title: Criar um workflow de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
-description: Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação , saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento de Experience Platform.
+title: Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
+description: Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento da Experience Platform.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,19 +11,19 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar um workflow de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
+# Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
 
-Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação , saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento de Experience Platform.
+Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento da Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
-## Ativos
+## Assets
 
 JavaScript para estabelecer intervalos de datas:
 
@@ -64,4 +64,4 @@ JavaScript para estabelecer intervalos de datas:
 
 ## Próximo vídeo
 
-[Criar um workflow de exportação (Parte 2) - Extrair, formatar e salvar dados em uma conta externa](extract-format-save-data-to-external-account.md)
+[Criar um fluxo de trabalho de exportação (Parte 2) - Extrair, formatar e salvar dados em uma conta externa](extract-format-save-data-to-external-account.md)
