@@ -1,6 +1,6 @@
 ---
-title: Criar um workflow de exportação (Parte 2) - Extrair, formatar e salvar dados em uma conta externa
-description: Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação , você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
+title: Criar um fluxo de trabalho de exportação (Parte 2) - Extrair, formatar e salvar dados em uma conta externa
+description: Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação, você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar um workflow de exportação (Parte 2): Extrair, formatar e salvar dados em uma conta externa
+# Criar um workflow de exportação (Parte 2): extrair, formatar e salvar dados em uma conta externa
 
-Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação , você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
+Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação, você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
-## Ativos
+## Assets
 
-JavaScript: Salvar data
+JavaScript: salvar data
 
 ```java
  logInfo("=====================")
