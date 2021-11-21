@@ -2,15 +2,16 @@
 title: Painel de controle do Campaign - Visão geral
 description: O Painel de controle do Campaign permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou gerenciar chaves GPG.
 landing-page-description: O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, permitir a listagem de endereços IP ou gerenciar chaves GPG.
-feature: Painel de controle do Campaign
+feature: Control Panel
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: ht
-source-wordcount: '216'
+exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '214'
 ht-degree: 100%
 
 ---

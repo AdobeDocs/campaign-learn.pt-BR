@@ -1,7 +1,7 @@
 ---
 title: Criar entregas de correspondência direta
 description: Saiba como criar, formatar e executar uma entrega de correspondência direta.
-feature: Correspondência direta
+feature: Direct Mail
 kt: 7795
 thumbnail: 333401.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: set-up
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 1e92d0d9857175cea9880d260fe47b9dc9f47838
-workflow-type: ht
-source-wordcount: '41'
+exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '39'
 ht-degree: 100%
 
 ---
-
 
 # Criar entregas de correspondência direta
 

@@ -1,7 +1,7 @@
 ---
 title: Gerencie a fadiga usando regras de tipologia.
 description: Saiba como implementar o gerenciamento de fadiga aplicando regras de tipologia.
-feature: Gerenciamento de fadiga
+feature: Fatigue Management
 kt: 7959
 thumbnail: 333787.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '87'
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---

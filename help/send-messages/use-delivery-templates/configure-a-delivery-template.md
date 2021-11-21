@@ -1,7 +1,7 @@
 ---
 title: Configurar um template de delivery
 description: Saiba como configurar um modelo para uma entrega ad hoc.
-feature: Templates do delivery
+feature: Delivery Templates
 kt: 7962
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -11,9 +11,10 @@ role: Admin
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '91'
+exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---

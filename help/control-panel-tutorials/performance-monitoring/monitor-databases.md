@@ -1,7 +1,7 @@
 ---
 title: Monitorar bancos de dados
 description: Saiba como monitorar o uso do banco de dados das suas instâncias.
-feature: Painel de controle do Campaign
+feature: Control Panel
 kt: 8519
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '89'
+exl-id: 9451117b-f1ae-4d92-b75c-233fe8e76482
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---

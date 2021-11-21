@@ -1,7 +1,7 @@
 ---
 title: Gerenciar fadiga usando filtros predefinidos
 description: Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtros.
-feature: Gerenciamento de fadiga
+feature: Fatigue Management
 kt: 7958
 thumbnail: 333778.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '64'
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---

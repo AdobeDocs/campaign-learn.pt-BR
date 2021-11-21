@@ -1,7 +1,7 @@
 ---
 title: Refinar direcionamentos excluindo resultados de consulta
 description: Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
-feature: Workflows, Atividade de direcionamento, Editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7845
 thumbnail: 335609.jpg
 doc-type: feature video
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: ht
-source-wordcount: '96'
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
-# Refinar targets excluindo resultados de consulta
+# Refinar direcionamentos excluindo resultados de consulta
 
 Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 
