@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: 9a485e259e4105a6ccdd06e3374ab3d1a3810280
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 98%
+source-wordcount: '362'
+ht-degree: 93%
 
 ---
 
@@ -72,6 +72,10 @@ ht-degree: 98%
    + [Gerenciar aprovações](/help/process-management/manage-approvals.md)
    + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
    + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
+   + Criar workflows de validação de aprovação {#create-validation-workflows}
+      + [Configurar aprovações para campanhas](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configurar aprovações para deliveries](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Criar um processo de aprovação em um workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gerenciamento de dados {#data-management}
    + [Criar e estender um esquema](/help/data-management/create-and-extend-a-schema.md)
    + [Importar perfis](/help/data-management/import-profiles.md)
