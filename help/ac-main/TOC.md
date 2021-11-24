@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 93%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [Configurar páginas de aterrissagem](/help/content-creation/configure-landingpages.md)
 + Enviar mensagens{#sending-messages}
    + Email {#email}
-      + [Enviar e validar provas para uma entrega de email ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [Enviar e validar provas para uma entrega de email](/help/send-messages/email/send-and-validate-proofs.md)
       + [Usar grupos de controle](/help/send-messages/email/use-control-groups.md)
       + [Solução de problemas de entrega de email](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Projetar emails para capacidade de entrega](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Aprovações e fluxos de trabalho de validação {#create-approvals-and-validation-workflows}
-   + [Como usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
-   + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
       + [Introdução](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gerenciar aprovações](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configurar aprovações para campanhas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
