@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + Gerenciamento e automatização de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar deliveries recorrentes e contínuos](/help/process-management/recurring-deliveries.md)
-   + [Criar fluxos de trabalho para direcionamento](/help/process-management/create-a-targeting-workflow.md)
-   + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Gerenciar aprovações](/help/process-management/manage-approvals.md)
-   + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
+   + Workflows para construção do target {#targeting workflows}
+      + [Criar fluxos de trabalho para direcionamento](/help/process-management/create-a-targeting-workflow.md)
+      + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + Aprovações e fluxos de trabalho de validação {#create-approvals-and-validation-workflows}
+   + [Como usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
    + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
-   + Criar workflows de validação de aprovação {#create-validation-workflows}
+      + [Introdução](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [Gerenciar aprovações](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configurar aprovações para campanhas](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [Configurar aprovações para deliveries](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [Criar um processo de aprovação em um workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gerenciamento de dados {#data-management}
+   + [Gerenciar aprovações](/help/process-management/manage-approvals.md)
+   + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
+   + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
    + [Criar e estender um esquema](/help/data-management/create-and-extend-a-schema.md)
    + [Importar perfis](/help/data-management/import-profiles.md)
    + [Replicação de dados](/help/data-management/data-replication.md)
