@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
+* **[Mecanismo de preparo da API com FDA](/help/data-management/api-staging-mechanism.md)**
+
+   *Saiba como funciona o mecanismo de preparo da API com FDA completo.*
+
 * **[Criar e estender um esquema](/help/data-management/create-and-extend-a-schema.md)**
 
    *Saiba como criar um novo schema e estender um schema existente.*
@@ -33,10 +37,6 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Integrar com a Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=pt-BR)**
 
    *Saiba como importar e exportar dados do Campaign e da Experience Cloud, permitindo a comunicação entre as duas soluções.*
-
-* **[Tutorial: usar APIs SOAP em workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=pt-BR)**
-
-   *Saiba como usar as APIs Soap do Adobe Campaign e criar um fluxo de trabalho de delivery avançado com base nos dados recebidos por meio da API.*
 
 
 ## Escolhas da equipe
