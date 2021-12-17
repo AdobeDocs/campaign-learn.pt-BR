@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriais
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -69,12 +69,12 @@ ht-degree: 93%
       + [Criar fluxos de trabalho para direcionamento](/help/process-management/create-a-targeting-workflow.md)
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Aprovações e fluxos de trabalho de validação {#create-approvals-and-validation-workflows}
+   + Aprovações e workflows de validação {#create-approvals-and-validation-workflows}
       + [Introdução](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gerenciar aprovações](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Configurar aprovações para campanhas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configurar aprovações para deliveries](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Criar uma atividade de aprovação em um workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Configuração de aprovações para campanhas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configuração de aprovações para deliveries](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Criar uma atividade de aprovação em um fluxo de trabalho](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gerenciamento de dados {#data-management}
    + [Usar a atividade de lista de atualização](/help/process-management/use-the-update-list-activity.md)
    + [Configurar atividades de enriquecimento](/help/process-management/enrichment-activity.md)
