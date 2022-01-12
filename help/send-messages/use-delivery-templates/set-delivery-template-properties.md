@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 25ec67b4-62a5-4bcc-8bd0-8655e463366a
-source-git-commit: f6bcd28520e89f5063edc55a3e7b8c7f3c9f9ead
+source-git-commit: 5d65475a1c5c5a5d84cc148988e942d55ccc4d07
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '29'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Como definir as propriedades do template do delivery e a explicação de cada propriedade em detalhes.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969 ?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12)
