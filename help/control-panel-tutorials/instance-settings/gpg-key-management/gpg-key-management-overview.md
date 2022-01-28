@@ -6,9 +6,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Saiba como gerar e instalar um par de chaves públicas/privadas em uma instânci
 1. [Gerar e instalar chaves GPG para criptografia de dados](./generate-and-install-gpg-keys.md)
 2. [Usar uma chave GPG para criptografar dados](./use-a-gpg-key-to-encrypt-data.md)
 3. [Descriptografar dados](./decrypt-data.md)
-
-## Recursos adicionais
-
-* [Gerenciamento de chaves GPG (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=pt-BR)

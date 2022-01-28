@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ ht-degree: 100%
 Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar blocos de personalização e declarações condicionais a um delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
-
-## Recursos adicionais
-
-* [Personalizar emails usando blocos de conteúdo dinâmico](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalizar emails usando campos de personalização](/help/content-creation/personalize-emails-using-personalization-fields.md)

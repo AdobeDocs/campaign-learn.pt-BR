@@ -10,9 +10,9 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ ht-degree: 100%
 Saiba como assimilar dados usando um conector de origem na Experience Platform para atualizar os dados do perfil com logs exportados do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
-
-## Recursos adicionais
-
-* [Conectar o Campaign à Experience Platform como destino](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
-* [Criar um esquema de logs de campanha e um conjunto de dados na Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)

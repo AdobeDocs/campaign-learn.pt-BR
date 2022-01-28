@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 Saiba como refinar seus direcionamentos usando atividades de interseção ou união para combinar resultados de consulta em um fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
-
-## Recursos adicionais
-
-* [Direcionar perfis em um fluxo de trabalho](/help/profile-management/target-profiles-in-a-workflow.md)
-* [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
-* [Usar a atividade de atualização de lista para criar uma lista com um fluxo de trabalho](/help/process-management/use-the-update-list-activity.md)

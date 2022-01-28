@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ O gerenciamento de fadiga controla a frequência e a quantidade de mensagens par
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
-
-## Recursos adicionais
-
-* [Sobre tipologias de campanha](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=pt-BR)
-* [Gerenciamento da fadiga de marketing com regras de pressão](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=pt-BR)

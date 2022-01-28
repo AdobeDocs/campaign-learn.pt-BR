@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 Saiba como adicionar conteúdo condicional a uma entrega no caso de um informativo multilíngue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
-
-## Recursos adicionais
-
-* [Personalizar emails usando blocos de conteúdo dinâmico](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Personalizar emails usando campos de personalização](/help/content-creation/personalize-emails-using-personalization-fields.md)

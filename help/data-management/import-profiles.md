@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: c19d1e3b-7df4-454d-b59f-49385eecea62
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '22'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 Este vídeo explica como importar perfis no Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
-
-## Recursos adicionais
-
-- [Exportação e importação de perfis](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html?lang=pt-BR)
