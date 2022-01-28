@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
+* **[Alterar a fonte de dados](/help/data-management/change-data-source.md)**
+
+   *Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando Alterar atividade da fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FDA e banco de dados local.*
+
+* **[Princípios básicos do gerenciamento de dados com fluxos de trabalho](/help/data-management/data-management-fundamentals.md)**
+
+   *Saiba quais são as dimensões de direcionamento e as tabelas de trabalho, e como o Adobe Campaign gerencia os dados em diferentes fontes de dados.*
+
 * **[Mecanismo de preparo da API com FDA](/help/data-management/api-staging-mechanism.md)**
 
    *Saiba como funciona o mecanismo de preparo da API com FDA completo.*
-
-* **[Criar e estender um esquema](/help/data-management/create-and-extend-a-schema.md)**
-
-   *Saiba como criar um novo esquema e estender um esquema existente.*
-
-* **[Integrar com a Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=pt-BR)**
-
-   *Saiba como importar e exportar dados do Campaign e da Experience Cloud, permitindo a comunicação entre as duas soluções.*
-
 
 ## Escolhas da equipe
 
