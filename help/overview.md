@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 * **[Alterar a fonte de dados](/help/data-management/change-data-source.md)**
 
-   *Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando Alterar atividade da fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FDA e banco de dados local.*
+   *Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando a atividade Alterar fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FFDA e banco de dados local.*
 
-* **[Princípios básicos do gerenciamento de dados com fluxos de trabalho](/help/data-management/data-management-fundamentals.md)**
+* **[Princípios básicos do gerenciamento de dados com workflows](/help/data-management/data-management-fundamentals.md)**
 
-   *Saiba quais são as dimensões de direcionamento e as tabelas de trabalho, e como o Adobe Campaign gerencia os dados em diferentes fontes de dados.*
+   *Saiba o que são as dimensões de direcionamento e as tabelas de trabalho, e como o Adobe Campaign gerencia os dados em diferentes fontes de dados.*
 
-* **[Mecanismo de preparo da API com FDA](/help/data-management/api-staging-mechanism.md)**
+* **[Mecanismo de preparo da API com FFDA](/help/data-management/api-staging-mechanism.md)**
 
-   *Saiba como funciona o mecanismo de preparo da API com FDA completo.*
+   *Saiba como funciona o mecanismo de preparo da API com Full FDA.*
 
 ## Escolhas da equipe
 
