@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -55,4 +55,4 @@ O vídeo a seguir explica como adicionar um administrador a uma instância do Ca
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-Visite o [Central de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br) para obter mais detalhes sobre este recurso.
+Visite a [Central de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br) para obter mais detalhes sobre este recurso.
