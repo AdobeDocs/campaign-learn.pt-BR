@@ -1,5 +1,5 @@
 ---
-title: Configure o Campaign para a integração do Experience Manager
+title: Configurar o Campaign para integração com o Experience Manager
 description: Saiba como configurar a integração entre o Experience Manager e o Campaign, incluindo configurações importantes a serem procuradas e possíveis "gotchas" a serem evitadas.
 feature: Experience Manager Integration
 kt: 9594
@@ -9,14 +9,14 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
-source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Configure o Campaign para a integração do Experience Manager
+# Configurar o Campaign para integração com o Experience Manager
 
 Saiba como configurar a integração entre o Experience Manager e o Campaign, incluindo configurações importantes a serem procuradas e possíveis &quot;gotchas&quot; a serem evitadas.
 
