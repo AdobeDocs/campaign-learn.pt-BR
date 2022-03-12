@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Integrar com o Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=pt-BR)**
+* **[Integração com o Adobe Target](/help/connect/target-integration.md)
+
+   *Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.*
+
+* **[Integração com o Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=pt-BR)**
 
    *Saiba como conectar o Adobe Campaign com o Adobe Experience Manager para permitir gerenciar modelos, ativos e formulários de entrega de email no Experience Manager.*
 
 * **[Alterar a fonte de dados](/help/data-management/change-data-source.md)**
 
    *Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando a atividade Alterar fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FFDA e banco de dados local.*
-
-* **[Princípios básicos do gerenciamento de dados com workflows](/help/data-management/data-management-fundamentals.md)**
-
-   *Saiba o que são as dimensões de direcionamento e as tabelas de trabalho, e como o Adobe Campaign gerencia os dados em diferentes fontes de dados.*
 
 
 ## Escolhas da equipe
@@ -100,7 +100,33 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     <em>Saiba como gerar um relatório de análise descritiva de um fluxo de trabalho.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Princípios básicos do gerenciamento de dados com workflows" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Princípios básicos do gerenciamento de dados com workflows</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba o que são as dimensões de direcionamento e as tabelas de trabalho, e como o Adobe Campaign gerencia os dados em diferentes fontes de dados.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="Mecanismo de preparo da API com FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>Mecanismo de preparo da API com FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba como funciona o mecanismo de preparo da API com Full FDA.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) para obter mais detalhes sobre este recurso.
