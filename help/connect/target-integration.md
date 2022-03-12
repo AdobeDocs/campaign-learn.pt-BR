@@ -3,12 +3,12 @@ title: Integração com o Adobe Target
 description: Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.
 feature: Target Integration
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 kt: 9601
-thumbnail: 341030.jpeg
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+thumbnail: 341030.jpg
+source-git-commit: ddbfe758fd4c27c6eb281cbf5b8091d5aa5911b2
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
