@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Integração com o Adobe Target](/help/connect/target-integration.md)
+* **[Integração com o Adobe Target](/help/connect/target-integration.md)**
 
    *Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.*
 
@@ -65,7 +65,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Criar e projetar entregas de email</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>Entenda o processo de criação de entrega de email e saiba como projetar e personalizar conteúdo de email.
 </em>
