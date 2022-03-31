@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Criar campanhas acionadas por evento](/help/get-started/create-event-triggered-campaigns.md)
 + Gerenciamento de perfil {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
+   + [Importar perfis](/help/profile-management/import-profiles.md)
    + [Direcionar perfis em um fluxo de trabalho](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orquestração de campanha {#campaign-orchestration}
    + [Executar uma campanha](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar deliveries recorrentes e contínuos](/help/process-management/recurring-deliveries.md)
    + Workflows para construção do target {#targeting-workflows}
-      + [Criar fluxos de trabalho para direcionamento](/help/process-management/create-a-targeting-workflow.md)
+      + [Criar um fluxo de trabalho de direcionamento](/help/process-management/create-a-targeting-workflow.md)
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Aprovações e workflows de validação {#create-approvals-and-validation-workflows}
