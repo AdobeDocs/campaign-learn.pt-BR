@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ Para acessar o Painel de controle do Campaign, vá até a página inicial da Exp
 
 Antes de começar, conclua os seguintes pré-requisitos:
 
-### Confirmar o [!DNL IMS Org ID]
+### Confirmar a ID da organização
 
-O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
+O vídeo a seguir descreve onde você pode pesquisar a ID da sua organização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
