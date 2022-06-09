@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Integração com o Adobe Target](/help/connect/target-integration.md)**
+* **[Introdução ao SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
 
-   *Saiba como personalizar um delivery com conteúdo dinâmico veiculado pelo Adobe Target.*
+* **[Configurar uma conta SMS para um provedor SMPP padrão](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Integração com o Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=pt-BR)**
+   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-   *Saiba como conectar o Adobe Campaign com o Adobe Experience Manager para permitir gerenciar modelos, ativos e formulários de entrega de email no Experience Manager.*
+* **[Adapte o conector SMS ao seu provedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[Alterar a fonte de dados](/help/data-management/change-data-source.md)**
+   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e criptografar com TLS.*
 
-   *Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando a atividade Alterar fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FFDA e banco de dados local.*
+* **[Maximize seu ROI de email e conheça as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Saiba como maximizar o ROI do email e saber mais sobre as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
 
 ## Escolhas da equipe
 

@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 94%
@@ -47,7 +47,6 @@ ht-degree: 94%
       + [Usar grupos de controle](/help/send-messages/email/use-control-groups.md)
       + [Solução de problemas de entrega de email](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Projetar emails para capacidade de entrega](/help/send-messages/email/design-emails-for-deliverability.md)
-      + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
    + SMS {#sms}
       + [Configurar SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Crie uma entrega de SMS.](/help/send-messages/mobile/create-an-sms-delivery.md)
@@ -102,3 +101,4 @@ ht-degree: 94%
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
    + [Maximizar o ROI do email e as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
