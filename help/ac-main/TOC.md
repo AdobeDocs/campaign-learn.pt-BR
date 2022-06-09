@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a organização visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: af1d6c836b2609c5abe2f82fd32eb7352d512543
+source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 100%
+source-wordcount: '405'
+ht-degree: 97%
 
 ---
 
@@ -99,3 +99,5 @@ ht-degree: 100%
    + [Trilha de auditoria](/help/monitoring/audit-trail.md)
 + Administração {#administration}
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=pt-BR)
++ Estratégia e liderança de pensamento{#strategy}
+   + [Maximizar o ROI do email e as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)

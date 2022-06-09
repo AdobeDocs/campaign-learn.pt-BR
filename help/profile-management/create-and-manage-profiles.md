@@ -1,6 +1,6 @@
 ---
 title: Criar e gerenciar perfis
-description: Saiba como acessar os dados do perfil, classificar e filtrar perfis, além de criar e gerenciar perfis manualmente. Entenda a conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
+description: Saiba como acessar os dados do perfil, criar perfis e classificar e filtrar por meio de suas criações para facilitar a funcionalidade. Você também aprenderá a ser compatível com o Regulamento Geral sobre a Proteção de Dados (GDPR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA).
 feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 57%
 
 ---
 
