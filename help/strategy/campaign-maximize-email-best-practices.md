@@ -1,11 +1,12 @@
 ---
-title: Maximize seu ROI de email e conheça as práticas recomendadas para reengajamento do assinante
-description: 'Saiba como maximizar o ROI do email e saber mais sobre as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email. '
+title: Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante
+description: Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 * **Teste e aprenda** - um bom plano de testes é importante para garantir que os seus esforços estejam a produzir o efeito desejado. Saiba o que está funcionando e o que não está e repita de acordo.
 
 Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista a nossa [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Saiba mais sobre estratégia e liderança de pensamento no [Sucesso do cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) cubo.
