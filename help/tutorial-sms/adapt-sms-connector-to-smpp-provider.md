@@ -1,23 +1,23 @@
 ---
-title: Adapte o conector SMS ao seu provedor SMPP
-description: Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e criptografar com TLS.
+title: Adaptar o conector SMS ao seu provedor SMPP
+description: Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
+exl-id: e84d43a8-6553-4657-9383-5ea91867e811
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Adaptar o conector SMS ao seu provedor SMPP
 
-# Adapte o conector SMS ao seu provedor SMPP
+![Se aplica a: V7, V8](../assets/V7-V8-stamp.png)
 
-![Aplica-se a V7, V8](../assets/V7-V8-stamp.png)
-
-Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.
+Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12)
 
-Consulte [Protocolo e configurações do conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages) para obter mais informações sobre o protocolo SMPP, detalhes sobre configurações da conta externa ou solução de problemas dos problemas mais comuns.
+Consulte [Protocolo e configurações do conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=pt-BR#sending-messages) para obter mais informações sobre o protocolo SMPP, detalhes sobre configurações da conta externa ou soluções para os problemas mais comuns.
