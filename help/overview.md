@@ -1,6 +1,6 @@
 ---
 title: Tutoriais do Adobe Campaign V8 – Visão geral
-description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
+description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
@@ -8,15 +8,15 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '510'
+ht-degree: 100%
 
 ---
 
 # Tutoriais do Adobe Campaign V8 – Visão geral
 
-O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign V8.
+O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign V8.
 
 >[!INFO]
 > Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
@@ -33,15 +33,15 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 * **[Configurar uma conta SMS para um provedor SMPP padrão](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
+   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Adapte o conector SMS ao seu provedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Adaptar o conector SMS ao seu provedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e criptografar com TLS.*
+   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Maximize seu ROI de email e conheça as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Saiba como maximizar o ROI do email e saber mais sobre as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
+   *Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
 
 ## Escolhas da equipe
 
@@ -105,11 +105,11 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
   </td>
   <td>
    <a href="./data-management/data-management-fundamentals.md">
-      <img alt="Princípios básicos do gerenciamento de dados com workflows" src="./assets/339992.jpg" />
+      <img alt="Princípios básicos do gerenciamento de dados com fluxos de trabalho" src="./assets/339992.jpg" />
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>Princípios básicos do gerenciamento de dados com workflows</strong>
+    <strong>Princípios básicos do gerenciamento de dados com fluxos de trabalho</strong>
     </a>
     </div>
     <p>
