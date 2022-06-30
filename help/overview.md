@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,21 +27,21 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
+* **[Monitorar throughput e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Saiba como monitorar os resultados do delivery e as latências de mensagem transacional da instância do Campaign.*
+
+* **[Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=pt-BR)**
+
+   *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
+
 * **[Introdução ao SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
    *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
 
 * **[Configurar uma conta SMS para um provedor SMPP padrão](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
-
-* **[Adaptar o conector SMS ao seu provedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
-
-* **[Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
+   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
 ## Escolhas da equipe
 
