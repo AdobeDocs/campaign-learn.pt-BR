@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a orquestração visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
+source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [Solução de problemas de entrega de email](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Projetar emails para capacidade de entrega](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
       + [Crie uma entrega de SMS.](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Instalação do canal de aplicativo móvel](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -98,6 +97,7 @@ ht-degree: 100%
    + [Trilha de auditoria](/help/monitoring/audit-trail.md)
 + Administração {#administration}
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target=&quot;_blank&quot;}
+   + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)

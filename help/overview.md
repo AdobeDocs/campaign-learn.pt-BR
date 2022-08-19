@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '480'
+ht-degree: 93%
 
 ---
 
@@ -27,6 +27,9 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
+* **[Unidade de disco e solução de problemas do protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexões.*
 
 * **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Painel de controle do Campaign - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
    *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
-
-* **[Introdução ao SMS](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
-
-* **[Configurar uma conta SMS para um provedor SMPP padrão](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
 ## Escolhas da equipe
 
