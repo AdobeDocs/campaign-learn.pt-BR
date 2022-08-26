@@ -4,9 +4,9 @@ description: Saiba como configurar uma conta SMS para provedores SMTP e como ana
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Os seguintes tópicos são abordados:
 
    *Saiba como ajustar as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Unidade de disco e solução de problemas do protocolo SMPP](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[Solução de problemas e detalhamentos sobre o protocolo SMPP](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexões.*
+   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
 
 >[!NOTE]
 >
