@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '480'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Unidade de disco e solução de problemas do protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+* **[Solução de problemas e detalhamentos sobre o protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=pt-BR)**
 
-   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexões.*
+   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
 
 * **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
