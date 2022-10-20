@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 >
 >Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=pt-BR) para obter mais informações sobre a transição do Classic v7 para o V8.
 
+<div id="whats-new-section">
+
 ## Novidades
 
 * **[Solução de problemas e detalhamentos sobre o protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=pt-BR)**
@@ -39,6 +41,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Painel de controle do Campaign - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target=&quot;_blank&quot;}**
 
    *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Escolhas da equipe
 
@@ -128,5 +141,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
   </td>
 </tr>
 </table>
+
+</div>
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) para obter mais detalhes sobre este recurso.
