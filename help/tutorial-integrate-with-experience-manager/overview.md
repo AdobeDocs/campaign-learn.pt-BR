@@ -1,14 +1,15 @@
 ---
 title: Integração com o Experience Manager - Visão geral
-description: 'Saiba como conectar o Adobe Campaign ao Adobe Experience Manager para permitir gerenciar modelos, ativos e formulários de entrega de email no Experience Manager. '
+description: Saiba como conectar o Adobe Campaign ao Adobe Experience Manager para permitir gerenciar modelos, ativos e formulários de entrega de email no Experience Manager.
 feature: Experience Manager Integration
 kt: 9592
 thumbnail: 340319.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
-source-git-commit: 57cd2d41665653c4bd030b0c4e76d7cb93400d00
-workflow-type: ht
+exl-id: 7c877275-a160-41a8-950a-756e9e932302
+source-git-commit: cf4f26b9bd15d74bb370222dfd5a3b32c559a264
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 

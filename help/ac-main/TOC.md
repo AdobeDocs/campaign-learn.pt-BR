@@ -5,7 +5,7 @@ user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a orquestração visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
 source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ ht-degree: 100%
       + [Personalizar emails usando campos de personalização](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Criar um informativo multilíngue usando conteúdo condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definir conteúdo de email interativo com o AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
-   + [Configurar páginas de aterrissagem](/help/content-creation/configure-landingpages.md)
+   + [Configurar páginas de destino](/help/content-creation/configure-landingpages.md)
 + Enviar mensagens{#sending-messages}
    + Email {#email}
       + [Enviar e validar provas para uma entrega de email](/help/send-messages/email/send-and-validate-proofs.md)
@@ -54,7 +54,7 @@ ht-degree: 100%
       + [Configurar o canal por push utilizando o SDK móvel da Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
-   + Usar templates de delivery{#using-delivery-templates}
+   + Usar modelos de entrega{#using-delivery-templates}
       + [Configurar um template de delivery](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Definir propriedades do template de delivery](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Implantar um template do delivery de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
