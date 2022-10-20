@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 99%
 
 ---
 
-# Tutoriais do Adobe Campaign V8 - Visão geral
+# Tutoriais do Adobe Campaign V8
 
 O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign V8.
 
@@ -53,7 +52,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 <div id="staff-picks-section">
 
-## Escolhas da equipe
+## Escolhas de pessoal
 
 <table>
 <tr>
