@@ -1,8 +1,8 @@
 ---
-source-git-commit: c2b4ec492f591c5b0f06f74d42b94ff527d5cdeb
+source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Contribuição
@@ -18,20 +18,15 @@ Este projeto adere ao [código de conduta](code-of-conduct.md) da Adobe. Ao part
 
 ## Documentação do Guia do colaborador
 
-Consulte o [Guia do colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte a [Guia do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Tem Dúvidas?
 
-Comece registrando um problema. Os autores atuais do commit trabalham para alcançar
-consenso sobre a direção do projeto e solução de problemas em processos de problemas
-(se for caso disso).
+Comece registrando um problema. Os autores atuais do commit trabalham para chegar a um consenso sobre a direção do projeto e para gerar soluções dentro dos processos de problemas (quando apropriado).
 
 ## Contrato de Licença de Colaborador
 
-Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contribuidor assinado
-contrato de licença. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você
-é necessário enviar um Adobe CLA apenas uma vez, portanto, se você já tiver enviado um anteriormente,
-você é bom para ir!
+Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contrato de licença do contribuidor assinado. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você só precisa enviar um Adobe CLA uma vez, portanto, se já tiver enviado um anteriormente, fique tranquilo!
 
 ## Revisões do código
 
@@ -44,13 +39,8 @@ submitting a pull request!
 
 ## Do contribuidor para o autor do commit
 
-Adoramos contribuições de nossa comunidade! Se você quiser ir além do contribuidor
-e tornar-se um autor com acesso total à gravação e participação no projeto, você deve
-ser convidados para o projeto. Os autores atuais empregam uma nomeação interna
-processo que deve alcançar o consenso lento (silêncio é aprovação) antes dos convites
-são emitidos. Se você se sentir qualificado e quiser se envolver mais,
-sinta-se à vontade para entrar em contato com os autores atuais do commit e conversar sobre isso.
+Adoramos contribuições de nossa comunidade! Se você quiser ir além do contribuidor e se tornar autor do commit com acesso total à gravação e direito a dar opiniões, você deve ser convidado para o projeto. Os autores atuais do commit usam um processo de nomeação interna que deve chegar a um consenso lento (silêncio é aprovação) antes de os convites serem emitidos. Se você se sentir qualificado e quiser aprofundar seu envolvimento, fique à vontade para contatar os autores atuais do commit e conversar sobre isso.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [registre um problema para nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie um problema para nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
