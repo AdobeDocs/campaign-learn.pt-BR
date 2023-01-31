@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a orquestração visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
 breadcrumb-title: Tutoriais
-source-git-commit: 175d322861d8af211e7cfd919da0a55fab9a410f
+source-git-commit: 89b99c200f6169194e9607f4a0f335abc7d81ee0
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 97%
