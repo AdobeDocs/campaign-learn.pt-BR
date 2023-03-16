@@ -40,7 +40,7 @@ ht-degree: 97%
       + [Personalizar emails usando campos de personalização](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Criar um informativo multilíngue usando conteúdo condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definir conteúdo de email interativo com o AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
-   + [Configurar páginas de destino](/help/content-creation/configure-landingpages.md)
+   + [Configurar landing pages](/help/content-creation/configure-landingpages.md)
 + Enviar mensagens{#sending-messages}
    + Email {#email}
       + [Enviar e validar provas para uma entrega de email](/help/send-messages/email/send-and-validate-proofs.md)
@@ -97,7 +97,7 @@ ht-degree: 97%
    + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
    + [Trilha de auditoria](/help/monitoring/audit-trail.md)
 + Administração {#administration}
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
+   + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
    + [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
    + [Dez práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy/10-best-practices-for-marketers.md)
