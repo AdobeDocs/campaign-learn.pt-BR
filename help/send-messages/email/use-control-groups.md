@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 2f756353-7b06-4786-8582-38d80288a5e3
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
-workflow-type: tm+mt
-source-wordcount: '42'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no seu delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on)
