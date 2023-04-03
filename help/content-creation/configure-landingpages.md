@@ -1,5 +1,5 @@
 ---
-title: Configurar páginas de aterrissagem
+title: Configurar landing pages
 description: Saiba como navegar no editor de aplicativo web criando uma central de preferências.
 feature: Landing Pages
 kt: 7945
@@ -10,17 +10,17 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
-source-wordcount: '57'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
 
-# Configurar páginas de aterrissagem
+# Configurar landing pages
 
-O Adobe Campaign permite criar e hospedar várias páginas de aterrissagem em seu servidor, incluindo pesquisas online, centros de preferências e páginas de cancelamento de inscrição.
+O Adobe Campaign permite criar e hospedar várias landing pages em seu servidor, incluindo pesquisas online, centros de preferências e páginas de cancelamento de inscrição.
 
 Este vídeo demonstra como navegar no editor de aplicativo web do Adobe Campaign criando uma central de preferências.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on)
