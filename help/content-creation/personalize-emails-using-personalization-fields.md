@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ Os campos de personalização são usados para personalização de primeiro nív
 
 Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
