@@ -10,7 +10,7 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
-source-git-commit: 8cf92efcbabad88a239863dc4bdb25ed63f66f7b
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '0'
 ht-degree: 100%
@@ -24,4 +24,4 @@ O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar 
 
 Saiba como definir vários targets de entrega usando workflows para construção do target.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on)
