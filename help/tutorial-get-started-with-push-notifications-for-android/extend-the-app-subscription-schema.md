@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Saiba como estender o esquema [!UICONTROL subscrição de aplicativo] para poder armazenar valores de personalização [!DNL Campaign] recebidos de um aplicativo para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
 
 **Próxima etapa**
 
