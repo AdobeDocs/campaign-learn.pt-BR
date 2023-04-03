@@ -8,7 +8,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Saiba como compartilhar dados entre o Campaign e a Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on)
 
 ## Recursos adicionais
 
