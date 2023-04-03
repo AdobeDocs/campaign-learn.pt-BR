@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 94%
@@ -39,10 +39,10 @@ As entregas recorrentes e contínuas diferem na maneira como os dados de contato
 
 Este vídeo explica como configurar uma entrega recorrente e uma atividade de scheduler.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
 
 ## Como configurar uma entrega contínua {#how-to-set-up-a-continuous-delivery}
 
 Este vídeo mostra como configurar uma entrega contínua com um query incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
