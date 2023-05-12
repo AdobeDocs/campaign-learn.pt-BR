@@ -1,5 +1,5 @@
 ---
-title: Criar deliveries de email recorrentes e contínuos
+title: Criar entregas de email recorrentes e contínuas
 description: Saiba como configurar uma entrega recorrente e contínua e compreender as diferenças entre as duas abordagens.
 feature: Workflows
 kt: 7982
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# Criar deliveries de email recorrentes e contínuos
+# Criar entregas de email recorrentes e contínuas
 
 Este tutorial explica como configurar uma entrega recorrente e contínua e as diferenças entre as duas abordagens.
 
