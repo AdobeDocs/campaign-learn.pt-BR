@@ -2,7 +2,7 @@
 title: Configurar um serviço Android™ e criar um aplicativo Android™ para dispositivos móveis no Campaign
 description: Saiba como configurar um serviço Android™ e criar um aplicativo Android™ para dispositivos móveis no Campaign.
 feature: Push
-kt: 7965
+jira: KT-7965
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
-source-wordcount: '87'
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
