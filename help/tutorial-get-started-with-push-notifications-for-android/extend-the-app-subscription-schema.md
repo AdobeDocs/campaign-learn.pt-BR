@@ -2,7 +2,7 @@
 title: Estender o esquema de subscrição do aplicativo para personalizar notificações por push
 description: Saiba como estender o esquema de subscrição do aplicativo para armazenar valores de personalização que o Campaign recebe de um aplicativo para dispositivos móveis.
 feature: Push, Schema Extension
-kt: 7967
+jira: KT-7967
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
