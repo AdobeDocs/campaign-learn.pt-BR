@@ -2,7 +2,7 @@
 title: Criar entregas de email recorrentes e contínuas
 description: Saiba como configurar uma entrega recorrente e contínua e compreender as diferenças entre as duas abordagens.
 feature: Workflows
-kt: 7982
+jira: KT-7982
 thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
-source-wordcount: '232'
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ As entregas recorrentes e contínuas diferem na maneira como os dados de contato
 
 * A **entrega contínua** permite adicionar novos recipients a uma entrega existente, o que evita a criação de uma nova entrega cada vez que um novo recipient é adicionado. Você pode atualizar o criativo diretamente no fluxo de trabalho da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
 
-   Uma entrega contínua criará uma ÚNICA entrega. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a uma entrega serão adicionados a cada execução.
+  Uma entrega contínua criará uma ÚNICA entrega. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a uma entrega serão adicionados a cada execução.
 
 ![Entrega contínua](/help/assets/delivery_continuous.jpg)
 
