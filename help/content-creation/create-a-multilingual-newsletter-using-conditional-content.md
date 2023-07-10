@@ -2,7 +2,7 @@
 title: Criar um informativo multilíngue usando conteúdo condicional
 description: Saiba como adicionar conteúdo condicional a uma entrega no caso de um informativo multilíngue.
 feature: Dynamic Content
-kt: 7792
+jira: KT-7792
 thumbnail: 335682.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
-source-wordcount: '70'
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
