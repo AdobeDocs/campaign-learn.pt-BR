@@ -2,13 +2,13 @@
 title: Adicionar recipients e artigos usando a solicitação de API SOAP
 description: Saiba como usar a API SOAP do Campaign para criar um novo recipient. Entenda como criar um esquema de dados de artigo personalizado e enviar um artigo usando a API SOAP.
 feature: API
-kt: 8164
+jira: KT-8164
 thumbnail: 336386.jpg
 role: Admin, Developer
 level: Experienced
 exl-id: 7636a799-0302-458a-be1d-fceef0d9fa72
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
