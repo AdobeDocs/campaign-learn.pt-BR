@@ -2,7 +2,7 @@
 title: Trilha de auditoria
 description: Saiba como acessar os logs da Trilha de auditoria e quais configurações podem ser definidas.
 feature: Audit Trail
-kt: 7969
+jira: KT-7969
 doc-type: feature video
 activity: understand
 thumbnail: 342081.jpg
@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
