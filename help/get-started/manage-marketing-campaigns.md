@@ -2,7 +2,7 @@
 title: Gerenciar campanhas de marketing
 description: Entenda os principais conceitos do Adobe Campaign que ajudam a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
 feature: Campaigns
-kt: 7829
+jira: KT-7829
 thumbnail: 335608.jpg
 doc-type: presentation
 activity: understand
@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 02505628-e44c-49a8-b8ed-384ba96387c7
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
-source-wordcount: '40'
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
