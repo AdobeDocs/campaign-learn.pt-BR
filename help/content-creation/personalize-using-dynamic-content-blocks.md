@@ -1,7 +1,7 @@
 ---
 title: Personalizar emails usando blocos de conteúdo dinâmico
 description: Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo de sua entrega de email.
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7941
 thumbnail: 342088.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
