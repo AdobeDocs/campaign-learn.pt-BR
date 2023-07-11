@@ -1,7 +1,7 @@
 ---
 title: Criar um fluxo de trabalho de exportação (Parte 2) - Extrair, formatar e salvar dados em uma conta externa
 description: Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação, você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
-feature: Data Import/Export, Workflows
+feature: Data Management, Workflows
 jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
