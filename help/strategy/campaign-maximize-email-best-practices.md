@@ -2,8 +2,11 @@
 title: Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante
 description: Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
