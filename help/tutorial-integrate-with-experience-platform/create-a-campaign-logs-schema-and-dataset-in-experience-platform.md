@@ -1,7 +1,7 @@
 ---
 title: Criar um esquema de logs de campanha e um conjunto de dados na Adobe Experience Platform
 description: Saiba como criar um esquema e conjunto de dados na Adobe Experience Platform que possam ser usados para assimilar dados de logs de campanha na Platform.
-feature: Data Import/Export, Data Management
+feature: Data Management
 jira: KT-8161
 thumbnail: 336903.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
