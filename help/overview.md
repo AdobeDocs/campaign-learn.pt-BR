@@ -30,16 +30,13 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 ## Novidades
 
 * **[Solução de problemas e detalhamentos sobre o protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=pt-BR)**
-
-   *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
+  *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
 
 * **[Painel de controle - Monitorar fluxos de trabalho](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=pt-BR){target="_blank"}**
-
-   *Saiba como monitorar o uso de armazenamento temporário dos fluxos de trabalho e onde definir suas configurações para evitar problemas no banco de dados ou no fluxo de trabalho da sua instância.*
+  *Saiba como monitorar o uso de armazenamento temporário dos fluxos de trabalho e onde definir suas configurações para evitar problemas no banco de dados ou no fluxo de trabalho da sua instância.*
 
 * **[Painel de controle - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target="_blank"}**
-
-   *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
+  *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
 
 </div>
 
