@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
+source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
@@ -139,5 +139,3 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 </table>
 
 </div>
-
-Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) para obter mais detalhes sobre este recurso.
