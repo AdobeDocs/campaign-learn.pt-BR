@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
-workflow-type: ht
-source-wordcount: '105'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 98%
 
 ---
 
@@ -25,4 +25,4 @@ Um bloco de personalização é dinâmico, personalizado e contém um código de
 
 Saiba como criar blocos de conteúdo dinâmico e como usá-los para personalizar o conteúdo de sua entrega de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}

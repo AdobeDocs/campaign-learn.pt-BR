@@ -11,10 +11,10 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 9b52c0a8-48da-4b88-8b95-fd0fc47b06b5
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 97%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Workflows, um poderoso recurso do Adobe Campaign, ajudam você a gerenciar campanhas e alcançar clientes com mais facilidade. Aprenda e aplique as cinco práticas essenciais de fluxo de trabalho para profissionais de marketing com Adam Wilson, sócio diretor de marketing da LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

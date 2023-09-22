@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '42'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '44'
+ht-degree: 95%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba mais sobre a interface do usuário do Adobe Campaign V8 e como navegar pelos recursos principais.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}

@@ -6,10 +6,10 @@ thumbnail: 343622.jpg
 jira: KT-9741
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
 
 Consulte [Protocolo e configurações do conector SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=pt-BR#sending-messages) para obter mais informações sobre o protocolo SMPP, detalhes sobre configurações da conta externa ou soluções para os problemas mais comuns.

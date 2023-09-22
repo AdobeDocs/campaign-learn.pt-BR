@@ -10,10 +10,10 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como criar um esquema e conjunto de dados na Adobe Experience Platform que possam ser usados para assimilar dados de logs de campanha na Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on){transcript=true}

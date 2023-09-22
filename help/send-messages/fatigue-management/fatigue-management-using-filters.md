@@ -10,10 +10,10 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '47'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 95%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva a destinatários.
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtros.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}

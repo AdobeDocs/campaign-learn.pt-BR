@@ -9,10 +9,10 @@ activity: use
 role: User
 level: Beginner
 exl-id: 025f5f47-a554-4e28-97e0-1a3abdd9d2e4
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 97%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um processo de aprovação dentro de um fluxo de trabalho para permitir que a lógica de seleção de direcionamento seja revisada e aprovada antes que o delivery seja iniciado.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
