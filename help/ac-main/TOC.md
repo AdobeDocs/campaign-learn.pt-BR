@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
-user-guide-description: O Adobe Campaign permite que os profissionais de marketing criem experiências para clientes entre canais, além de fornecer um ambiente para a orquestração visual de campanhas, o gerenciamento de interações em tempo real e a execução entre canais.
-breadcrumb-title: Tutoriais
+user-guide-description: Vídeos e tutoriais do Adobe Campaign v8.
+breadcrumb-title: Tutorials do Campaign v8
 auto-video-transcripts: true
-source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
-workflow-type: ht
-source-wordcount: '434'
-ht-degree: 100%
+source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+workflow-type: tm+mt
+source-wordcount: '379'
+ht-degree: 97%
 
 ---
 
@@ -57,16 +57,16 @@ ht-degree: 100%
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Usar modelos de entrega{#using-delivery-templates}
-      + [Configurar um template de delivery](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
-      + [Definir propriedades do template de delivery](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implantar um template do delivery de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Configurar um template de entrega](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
+      + [Definir propriedades do template da entrega](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
+      + [Implantar um template da entrega de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configurar e gerenciar serviços de subscrição](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gerenciamento e automatização de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
-   + [Criar deliveries recorrentes e contínuos](/help/process-management/recurring-deliveries.md)
+   + [Criar entregas recorrentes e contínuas](/help/process-management/recurring-deliveries.md)
    + Fluxos de trabalho de direcionamento {#targeting-workflows}
       + [Criar um fluxo de trabalho de direcionamento](/help/process-management/create-a-targeting-workflow.md)
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
@@ -75,7 +75,7 @@ ht-degree: 100%
       + [Introdução](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gerenciar aprovações](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configuração de aprovações para campanhas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configuração de aprovações para deliveries](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Configuração de aprovações para entregas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Criar uma atividade de aprovação em um fluxo de trabalho](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Aprenda com seus colegas - Práticas recomendadas de fluxos de trabalho](/help/process-management/workflow-best-practices-for-marketers.md)
 + Gerenciamento de dados {#data-management}
