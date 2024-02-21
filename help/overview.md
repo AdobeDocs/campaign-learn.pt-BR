@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
+source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
 workflow-type: ht
-source-wordcount: '443'
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -24,21 +24,6 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração automatizada de um ambiente existente do Campaign Classic v7 ainda não está disponível.
 >
 >Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=pt-BR) para obter mais informações sobre a transição do Classic v7 para o V8.
-
-<div id="whats-new-section">
-
-## Novidades
-
-* **[Solução de problemas e detalhamentos sobre o protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=pt-BR)**
-  *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
-
-* **[Painel de controle - Monitorar fluxos de trabalho](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=pt-BR){target="_blank"}**
-  *Saiba como monitorar o uso de armazenamento temporário dos fluxos de trabalho e onde definir suas configurações para evitar problemas no banco de dados ou no fluxo de trabalho da sua instância.*
-
-* **[Painel de controle - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target="_blank"}**
-  *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
