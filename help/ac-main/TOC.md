@@ -5,17 +5,17 @@ user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: Saiba como usar os recursos e as funcionalidades do Console do cliente do Adobe Campaign V8.
 breadcrumb-title: Console do cliente - Tutoriais
 auto-video-transcripts: true
-source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
+source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '399'
+ht-degree: 95%
 
 ---
 
 
-# Tutoriais do Adobe Campaign V8 {#tutorials}
+# Tutorials do console do cliente do Adobe Campaign v8 {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Tutorials do console do cliente do Campaign v8](/help/overview.md)
 + [Principais recursos do Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=pt-BR)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
