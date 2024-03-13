@@ -1,5 +1,5 @@
 ---
-title: Explorar a interface do usuário do Adobe Campaign
+title: Explorar a interface do usuário do Console do cliente do Adobe Campaign v8
 description: Saiba mais sobre a interface do usuário do Adobe Campaign V8 e como navegar pelos recursos principais.
 feature: Overview
 jira: KT-7828
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: 1844c9ee8f8ad62275fe7a1d306019ed1a92f6f2
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 64%
 
 ---
 
-# Explorar a interface do usuário do Adobe Campaign
+# Explorar a interface do usuário do Console do cliente do Adobe Campaign v8
 
 Saiba mais sobre a interface do usuário do Adobe Campaign V8 e como navegar pelos recursos principais.
 
