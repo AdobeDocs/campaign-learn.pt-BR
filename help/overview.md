@@ -1,20 +1,21 @@
 ---
 title: Tutorials do console do cliente do Adobe Campaign v8
-description: O Adobe Campaign oferece uma plataforma para criar experiências do cliente em vários canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Console do cliente do Adobe Campaign V8.
+description: O Adobe Campaign oferece uma plataforma para criar experiências do cliente entre canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Console do cliente do Adobe Campaign V8.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2dfee4f1efe870815fd7cbf9023838c1c9c367a8
-workflow-type: tm+mt
+exl-id: ec352448-e40b-4d22-b566-d25783e74b63
+source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Tutorials do console do cliente do Adobe Campaign v8
 
-O Adobe Campaign oferece uma plataforma para criar experiências do cliente em vários canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Console do cliente do Adobe Campaign V8.
+O Adobe Campaign oferece uma plataforma para criar experiências do cliente entre canais, além de um ambiente para orquestração visual de campanhas, gestão de interações em tempo real e cross-channel execution. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Console do cliente do Adobe Campaign V8.
 
 Consulte
 
@@ -22,7 +23,7 @@ Consulte
 > Você tem dúvidas? Deseja compartilhar sua experiência ou trocar ideias com colegas? Ou você quer compartilhar seu feedback sobre o conteúdo de aprendizado com a equipe da Adobe? Participe da conversa no [thread da comunidade de aprendizagem do Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 > 
 > Esses tutoriais não são o que você está procurando?
-> Consulte a [Tutoriais da interface da Web do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) para obter orientação sobre como usar a interface da Web do Campaign.
+> Consulte os [Tutoriais da interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=pt-BR) para obter orientação sobre como usar a interface do Campaign Web.
 
 >[!NOTE]
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração automatizada de um ambiente existente do Campaign Classic v7 ainda não está disponível.

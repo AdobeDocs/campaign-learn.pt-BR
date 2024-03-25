@@ -3,19 +3,19 @@ product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Tutoriais do Adobe Campaign
 user-guide-description: Saiba como usar os recursos e as funcionalidades do Console do cliente do Adobe Campaign V8.
-breadcrumb-title: Console do cliente - Tutoriais
+breadcrumb-title: Console do cliente – Tutoriais
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
 # Tutorials do console do cliente do Adobe Campaign v8 {#tutorials}
 
-+ [Tutorials do console do cliente do Campaign v8](/help/overview.md)
++ [Tutoriais do console do cliente do Campaign v8](/help/overview.md)
 + [Principais recursos do Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=pt-BR)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
-+ [Tutoriais da interface da Web do Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Tutoriais da interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=pt-BR)
