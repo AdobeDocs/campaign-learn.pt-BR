@@ -6,7 +6,7 @@ user-guide-description: Saiba como usar os recursos e as funcionalidades do Cons
 breadcrumb-title: Console do cliente – Tutoriais
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 
