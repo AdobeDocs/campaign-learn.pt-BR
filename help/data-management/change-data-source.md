@@ -2,16 +2,16 @@
 title: Alterar a fonte de dados
 description: Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando a atividade Alterar fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FFDA e banco de dados local.
 feature: Data Management
-jira: KT-78379
+jira: KT-8379
 thumbnail: 340064.jpg
 doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: b671b2b9e82c2b4268ef270cd966ff8103c8246d
 workflow-type: ht
-source-wordcount: '96'
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
