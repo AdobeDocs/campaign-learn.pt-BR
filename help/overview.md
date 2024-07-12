@@ -6,8 +6,8 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
-workflow-type: tm+mt
+source-git-commit: 05edf80a541e57e0f3e66391a0da9993b8c80cb2
+workflow-type: ht
 source-wordcount: '368'
 ht-degree: 100%
 
@@ -29,7 +29,6 @@ Consulte
 > O Campaign v8 está disponível somente como um Cloud Service gerenciado e não pode ser implantado em um ambiente local ou híbrido. A migração automatizada de um ambiente existente do Campaign Classic v7 ainda não está disponível.
 >
 >Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=pt-BR) para obter mais informações sobre a transição do Classic v7 para o V8.
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
