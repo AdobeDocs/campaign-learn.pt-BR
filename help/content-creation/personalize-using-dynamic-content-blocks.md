@@ -11,7 +11,7 @@ role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Personalizar emails usando blocos de conteúdo dinâmico
 
-No Adobe Campaign, você pode personalizar o conteúdo ou a aparência das mensagens e combiná-las com critérios de perfis de recipients.
+No Adobe Campaign, você pode personalizar o conteúdo ou a aparência das mensagens e combiná-las com critérios de perfis de destinatários.
 
 Um bloco de personalização é dinâmico, personalizado e contém um código de renderização específico que pode ser adicionado às entregas. Você pode, por exemplo, adicionar imagens, cabeçalhos de email, rodapés de email, links de mirror page, links de unsubscription e muito mais.
 

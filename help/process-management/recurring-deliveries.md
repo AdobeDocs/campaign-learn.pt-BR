@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '236'
+workflow-type: tm+mt
+source-wordcount: '237'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Este tutorial explica como configurar uma entrega recorrente e contínua e as di
 
 As entregas recorrentes e contínuas diferem na maneira como os dados de contato são gerenciados:
 
-* A **entrega contínua** permite adicionar novos recipients a uma entrega existente, o que evita a criação de uma nova entrega cada vez que um novo recipient é adicionado. Você pode atualizar o criativo diretamente no fluxo de trabalho da campanha e ele atualizará o modelo na pasta Recursos do template do delivery.
+* A **entrega contínua** permite adicionar novos destinatários a uma entrega existente, o que evita a criação de uma nova entrega cada vez que um novo destinatário é adicionado. Você pode atualizar o criativo diretamente no fluxo de trabalho da campanha e ele atualizará o modelo na pasta Recursos do template da entrega.
 
   Uma entrega contínua criará uma ÚNICA entrega. Logs do delivery (broadLog) e logs de rastreamento que fazem referência a uma entrega serão adicionados a cada execução.
 

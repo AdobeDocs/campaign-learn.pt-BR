@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -19,8 +19,8 @@ ht-degree: 100%
 
 # Personalizar emails usando campos de personalização
 
-Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de delivery. Os campos inseridos em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
+Os campos de personalização são usados para personalização de primeiro nível do conteúdo das mensagens de entrega. Os campos inseridos em um conteúdo principal mostram onde inserir os dados da fonte de dados selecionada.
 
-Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de um delivery de email.
+Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de uma entrega de email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}

@@ -11,15 +11,15 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
 # Trilha de auditoria
 
-[!UICONTROL A Trilha de auditoria] captura, em tempo real, uma lista abrangente de ações e eventos que ocorrem no Adobe Campaign.[!UICONTROL A Trilha de auditoria] inclui uma forma de autoatendimento para acessar um histórico de dados para ajudar a responder a perguntas como:
+O [!UICONTROL Audit Trail] captura, em tempo real, uma lista abrangente de ações e eventos que ocorrem no Adobe Campaign.[!UICONTROL Audit Trail] inclui uma forma de autoatendimento para acessar um histórico de dados que ajudam a responder perguntas como:
 
 * O que aconteceu com um objeto?
 * Quem o modificou por último e quando?

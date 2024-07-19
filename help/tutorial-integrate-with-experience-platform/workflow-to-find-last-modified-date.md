@@ -1,6 +1,6 @@
 ---
-title: Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
-description: Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento da Experience Platform.
+title: Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de destinatários
+description: Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de destinatários criados de um segmento da Experience Platform.
 feature: Data Management, Workflows
 jira: KT-8162
 thumbnail: 336387.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '122'
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
-# Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de recipients
+# Criar um fluxo de trabalho de exportação (Parte 1) - Encontre a data da última modificação para uma lista de destinatários
 
-Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de recipients criados de um segmento da Experience Platform.
+Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de destinatários criados de um segmento da Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
 

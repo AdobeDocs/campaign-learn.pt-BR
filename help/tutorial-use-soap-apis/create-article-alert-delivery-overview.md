@@ -1,6 +1,6 @@
 ---
-title: Criar um delivery de alerta de artigo - Visão geral
-description: Saiba como criar um fluxo de trabalho que alerta os recipients de quaisquer novos artigos para os quais eles se inscreveram por meio de um delivery de email.
+title: Criar uma entrega de alerta de artigo - Visão geral
+description: Saiba como criar um fluxo de trabalho que alerta os destinatários de quaisquer novos artigos para os quais eles se inscreveram por meio de uma entrega de email.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
 activity: use
@@ -10,14 +10,14 @@ level: Beginner
 exl-id: e911cb89-bd27-4424-b4cd-2333321ffc08
 source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
 
-# Criar um delivery de alerta de artigo - Visão geral
+# Criar uma entrega de alerta de artigo - Visão geral
 
-Saiba como criar um fluxo de trabalho que alerta os recipients de quaisquer novos artigos para os quais eles se inscreveram por meio de um delivery de email.
+Saiba como criar um fluxo de trabalho que alerta os destinatários de quaisquer novos artigos para os quais eles se inscreveram por meio de uma entrega de email.
 
 **Etapa 1:** [Artigos de query e valores de assinaturas de recipients](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 

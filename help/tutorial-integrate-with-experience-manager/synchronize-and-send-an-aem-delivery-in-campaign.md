@@ -1,5 +1,5 @@
 ---
-title: Sincronizar e enviar um delivery de email do Experience Manager no Campaign
+title: Sincronizar e enviar uma entrega de email do Experience Manager no Campaign
 description: Saiba como testar e enviar no Campaign um boletim informativo criado no Experience Manager.
 feature: Experience Manager Integration
 jira: KT-9606
@@ -11,13 +11,13 @@ role: Admin, Developer
 level: Experienced
 exl-id: 255dbda3-df58-4b64-8db8-4fbac503a692
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# Sincronizar e enviar um delivery de email do Experience Manager no Campaign
+# Sincronizar e enviar uma entrega de email do Experience Manager no Campaign
 
 Saiba como testar e enviar no Campaign um boletim informativo criado no Experience Manager.
 
