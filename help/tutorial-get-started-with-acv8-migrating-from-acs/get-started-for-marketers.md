@@ -4,10 +4,10 @@ description: Este tutorial fornece uma visão geral da principal funcionalidade 
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 24%
+source-wordcount: '849'
+ht-degree: 23%
 
 ---
 
@@ -29,8 +29,6 @@ Você pode acessar o Adobe Campaign v8 por meio do console do cliente ou da Inte
 2. [Procurar e Filtrar Lista](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## Obter ajuda e orientação
-
-Use a [Ajuda contextual fornecida por IA](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} para acessar a documentação do produto na interface.
 
 [Documentação da Interface do Usuário da Web do Adobe Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/campaign-web-home)
 
