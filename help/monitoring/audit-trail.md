@@ -8,12 +8,12 @@ activity: understand
 thumbnail: 342081.jpg
 team: PM
 role: Admin
-level: Beginner
+level: Intermediate
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 66%
+source-wordcount: '90'
+ht-degree: 65%
 
 ---
 
@@ -29,4 +29,4 @@ Saiba como acessar os logs da Trilha de auditoria e quais configurações podem 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
 
-Mais informações podem ser encontradas na [documentação da trilha de auditoria](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=pt-BR).
+Mais informações podem ser encontradas na [Documentação da trilha de auditoria](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=pt-BR).
