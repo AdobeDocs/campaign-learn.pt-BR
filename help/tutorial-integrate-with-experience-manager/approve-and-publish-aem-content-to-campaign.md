@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 09df20fc-b848-4cbd-aabc-8fdb1f6b22ea
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 8386506fc6f99a15ca4f6f265322565c60626e78
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -22,3 +22,4 @@ ht-degree: 100%
 Saiba como criar um boletim informativo no Experience Manager e como aprová-lo e publicá-lo no Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+
