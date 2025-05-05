@@ -23,4 +23,4 @@ As aprovações permitem que os operadores tomem decisões que regem um fluxo de
 
 Saiba como configurar aprovações e uma campanha e como diferenciar entre aprovações de entrega e fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426632?quality=12&learn=on&captions=por_br){transcript=true}

@@ -22,4 +22,4 @@ Saiba como configurar aprovações e revisores no nível da campanha.  
 
 As aprovações devem ser configuradas no nível da campanha, caso haja o mesmo conjunto de revisores para todas as entregas no fluxo de trabalho da campanha.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446505?quality=12&learn=on&captions=por_br){transcript=true}

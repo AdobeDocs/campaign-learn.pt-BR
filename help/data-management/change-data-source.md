@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba como alterar a fonte de dados de uma tabela de trabalho do workflow usando a atividade Alterar fonte de dados para gerenciar dados de forma flexível em diferentes fontes de dados, como FDA, FFDA e banco de dados local.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449535?quality=12&learn=on&captions=por_br){transcript=true}
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=pt-BR#change-data-source-activity) para obter mais informações sobre esse recurso.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba mais sobre a interface do Adobe Campaign V8 e como navegar pelos recursos principais.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426442?quality=12&learn=on&captions=por_br){transcript=true}

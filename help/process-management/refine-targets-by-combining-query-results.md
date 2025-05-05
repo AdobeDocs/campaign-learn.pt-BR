@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como refinar seus direcionamentos usando atividades de interseção ou união para combinar resultados de consulta em um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426434?quality=12&learn=on&captions=por_br){transcript=true}

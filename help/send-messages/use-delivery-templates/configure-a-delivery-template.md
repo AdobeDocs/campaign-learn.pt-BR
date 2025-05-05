@@ -32,4 +32,4 @@ Um modelo pode incluir sistematicamente:
 
 O vídeo a seguir mostra como configurar um modelo para uma entrega ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409250?quality=12&learn=on&captions=por_br){transcript=true}

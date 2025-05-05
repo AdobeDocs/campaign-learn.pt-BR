@@ -20,4 +20,4 @@ Um [!UICONTROL Delivery-type activity] permite criar uma ação de entrega. Ele 
 
 Este vídeo explica como implantar um template da entrega de email. Ele explica a diferença entre uma entrega de email e um workflow de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31865?quality=12&learn=on&captions=por_br){transcript=true}

@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Nesta primeira parte do tutorial Criar um fluxo de trabalho de exportação, saiba como criar um fluxo de trabalho que encontra a data da última modificação de uma lista de destinatários criados de um segmento da Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450052?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Assets
 

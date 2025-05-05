@@ -23,4 +23,4 @@ Em uma campanha multicanal, uma única comunicação de marketing usa vários ca
 
 Saiba como criar uma campanha multicanal usando email, SMS e uma entrega de correspondência direta, com base no canal preferido pelo destinatário.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452508?quality=12&learn=on&captions=por_br){transcript=true}

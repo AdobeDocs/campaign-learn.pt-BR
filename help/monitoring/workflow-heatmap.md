@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como monitorar a carga na instância e planejar os agendamentos do fluxo de trabalho de acordo.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445402?quality=12&learn=on&captions=por_br){transcript=true}

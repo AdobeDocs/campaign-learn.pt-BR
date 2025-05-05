@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica como implantar um template do delivery de email ad-hoc, bem como a diferença entre uma entrega de email e um fluxo de trabalho de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444962?quality=12&learn=on&captions=por_br){transcript=true}

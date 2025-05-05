@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como criar um processo de aprovação dentro de um fluxo de trabalho para permitir que a lógica de seleção de direcionamento seja revisada e aprovada antes que a entrega seja iniciada.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442039?quality=12&learn=on&captions=por_br){transcript=true}

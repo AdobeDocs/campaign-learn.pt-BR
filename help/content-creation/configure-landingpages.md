@@ -23,4 +23,4 @@ O Adobe Campaign permite criar e hospedar várias landing pages em seu servidor,
 
 Este vídeo demonstra como navegar no editor de aplicativo web do Adobe Campaign criando uma central de preferências.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450219?quality=12&learn=on&captions=por_br){transcript=true}

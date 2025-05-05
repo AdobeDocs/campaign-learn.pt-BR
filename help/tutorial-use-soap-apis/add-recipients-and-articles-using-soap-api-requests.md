@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Saiba como usar a API SOAP do Campaign para criar um novo destinatário. Entenda como criar um esquema de dados de artigo personalizado e enviar um artigo usando a API SOAP.
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453537?quality=12&learn=on&captions=por_br){transcript=true}
 
 Próximo vídeo para assistir: [Etapa 3 - Inscrever usuários por meio da API SOAP](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

@@ -23,4 +23,4 @@ Os campos de personalização são usados para personalização de primeiro nív
 
 Saiba como adicionar um campo de personalização à linha de assunto e ao conteúdo de uma entrega de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31843?quality=12&learn=on&captions=por_br){transcript=true}

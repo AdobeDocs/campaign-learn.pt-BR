@@ -27,6 +27,6 @@ O [!UICONTROL Audit Trail] captura, em tempo real, uma lista abrangente de açõ
 
 Saiba como acessar os logs da Trilha de auditoria e quais configurações podem ser definidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444239?quality=12&learn=on&captions=por_br){transcript=true}
 
 Mais informações podem ser encontradas na [Documentação da trilha de auditoria](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=pt-BR).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Como definir as propriedades do template da entrega e a explicação de cada propriedade em detalhes.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443406?quality=12&learn=on&captions=por_br){transcript=true}

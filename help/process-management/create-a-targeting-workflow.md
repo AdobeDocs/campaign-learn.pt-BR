@@ -24,4 +24,4 @@ O Adobe Campaign usa workflows para realizar campanhas de direcionamento, criar 
 
 Saiba como definir vários targets de entrega usando workflows para construção do target.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450193?quality=12&learn=on&captions=por_br){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda o processo de criação de entregas de email e saiba como projetar e personalizar conteúdo de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444314?quality=12&learn=on&captions=por_br){transcript=true}

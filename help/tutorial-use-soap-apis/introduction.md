@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Saiba como usar as APIs SOAP do Adobe Campaign e criar um fluxo de trabalho avançado de entrega com base nos dados recebidos por meio da API.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438340?quality=12&learn=on&captions=por_br){transcript=true}
 
 Próximo vídeo para assistir: [Etapa 1: Introdução às APIs SOAP](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

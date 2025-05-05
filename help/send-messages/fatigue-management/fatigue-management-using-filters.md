@@ -22,4 +22,4 @@ ht-degree: 100%
 O gerenciamento de fadiga controla a frequência e a quantidade de mensagens para evitar a solicitação excessiva a destinatários.
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando filtros.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444605?quality=12&learn=on&captions=por_br){transcript=true}

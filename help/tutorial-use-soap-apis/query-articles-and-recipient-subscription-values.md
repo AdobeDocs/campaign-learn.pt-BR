@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Saiba como consultar dados usando diferentes dimensões de direcionamento e filtragem. Veja também como unir os resultados usando uma interseção para criar uma entrega automatizada de resumo de conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452895?quality=12&learn=on&captions=por_br){transcript=true}
 
 Próxima etapa: [Enviar um delivery para destinatários inscritos](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

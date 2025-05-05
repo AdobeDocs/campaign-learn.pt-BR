@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452934?quality=12&learn=on&captions=por_br){transcript=true}

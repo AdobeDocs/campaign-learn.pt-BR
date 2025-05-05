@@ -21,4 +21,4 @@ ht-degree: 100%
 
 O vídeo a seguir explica como baixar e instalar o console do cliente do Adobe Campaign, criar e gerenciar suas conexões com vários ambientes e verificar o acesso ao console do cliente Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449886?quality=12&learn=on&captions=por_br){transcript=true}

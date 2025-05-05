@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Nesta segunda parte do tutorial Criar um fluxo de trabalho de exportação, você aprenderá a formatar os dados para exportação e a salvar os dados em uma conta externa.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449917?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Assets
 

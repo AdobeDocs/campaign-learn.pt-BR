@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como enviar e validar uma prova para uma entrega de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447004?quality=12&learn=on&captions=por_br){transcript=true}

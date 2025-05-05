@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Entenda o uso de fluxos de trabalho da campanha e saiba como criar um fluxo de trabalho e usar condições de filtragem para direcionar perfis em um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453581?quality=12&learn=on&captions=por_br){transcript=true}
 
 ## Próximos tutoriais para assistir
 

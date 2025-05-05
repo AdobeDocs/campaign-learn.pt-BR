@@ -23,4 +23,4 @@ O gerenciamento de fadiga controla a frequência e a quantidade de mensagens par
 
 Saiba como implementar o gerenciamento de fadiga no Adobe Campaign usando regras de tipologia.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448336?quality=12&learn=on&captions=por_br){transcript=true}

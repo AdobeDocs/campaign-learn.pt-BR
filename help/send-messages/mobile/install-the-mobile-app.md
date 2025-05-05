@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Saiba como verificar se o canal de Aplicativo para dispositivos móveis está instalado em sua instância e como instalá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340426?quality=12&learn=on&captions=por_br){transcript=true}

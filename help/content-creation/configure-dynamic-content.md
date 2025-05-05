@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Entenda os diferentes tipos de conteúdo dinâmico e saiba como criar e aplicar blocos de personalização e declarações condicionais a uma entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452873?quality=12&learn=on&captions=por_br){transcript=true}

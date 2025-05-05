@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Saiba como criar um serviço de boletim informativo e fazer assinatura de um destinatário usando chamadas de API SOAP.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446022?quality=12&learn=on&captions=por_br){transcript=true}
 
 Continue para: [Etapa 4 - Criar um resumo de conteúdo com um fluxo de trabalho](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
