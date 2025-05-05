@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
    + [Gerenciar campanhas de marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Criar planos de marketing, programas e campanhas](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Criar campanhas acionadas por evento](/help/get-started/create-event-triggered-campaigns.md)
-+ Gerenciamento de perfil {#profile-management}
++ Gerenciamento de perfis {#profile-management}
    + [Criar e gerenciar perfis](/help/profile-management/create-and-manage-profiles.md)
    + [Importar perfis](/help/profile-management/import-profiles.md)
    + [Direcionar perfis em um fluxo de trabalho](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -67,10 +67,10 @@ ht-degree: 100%
       + [Regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configurar e gerenciar serviços de subscrição](/help/send-messages/configure-and-manage-subscription-services.md)
-+ Gerenciamento e automatização de processos{#process-management}
++ Gerenciamento e automação de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar entregas recorrentes e contínuas](/help/process-management/recurring-deliveries.md)
-   + Fluxos de trabalho de direcionamento {#targeting-workflows}
+   + Fluxos de trabalho para construção do target {#targeting-workflows}
       + [Criar um fluxo de trabalho de direcionamento](/help/process-management/create-a-targeting-workflow.md)
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + [Acessar relatórios integrados](/help/reporting/access-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generate-a-descriptive-analysis-report.md)
 + Monitoramento {#monitoring}
-   + [Workflow Heatmap](/help/monitoring/workflow-heatmap.md)
+   + [Heatmap de fluxos de trabalho](/help/monitoring/workflow-heatmap.md)
    + [Trilha de auditoria](/help/monitoring/audit-trail.md)
 + Administração {#administration}
    + [Gerenciar permissões do usuário](/help/administration/manage-user-permissions.md)
