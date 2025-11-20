@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -60,9 +60,9 @@ ht-degree: 95%
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Usar modelos de entrega{#using-delivery-templates}
-      + [Configurar um template de entrega](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
-      + [Definir propriedades do template da entrega](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
-      + [Implantar um template da entrega de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
+      + [Configurar um modelo de entrega](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
+      + [Definir propriedades do modelo da entrega](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
+      + [Implantar um modelo da entrega de email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Gerenciamento de fadiga{#fatigue-management}
       + [Regras de tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtros predefinidos](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -70,7 +70,7 @@ ht-degree: 95%
 + Gerenciamento e automação de processos{#process-management}
    + [Criar um fluxo de trabalho](/help/process-management/create-a-workflow.md)
    + [Criar entregas recorrentes e contínuas](/help/process-management/recurring-deliveries.md)
-   + Fluxos de trabalho para construção do target {#targeting-workflows}
+   + Workflows de direcionamento {#targeting-workflows}
       + [Criar um fluxo de trabalho de direcionamento](/help/process-management/create-a-targeting-workflow.md)
       + [Refinar targets combinando resultados de consulta](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Refinar targets excluindo resultados de consulta](/help/process-management/refine-targets-by-excluding-query-results.md)
