@@ -21,4 +21,4 @@ Saiba o que é SMS, a função do provedor de serviços de SMS e como o Adobe Ca
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
 
-Consulte [Protocolo e configurações do conector SMS](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) para obter mais informações sobre o protocolo SMPP, detalhes sobre configurações da conta externa ou soluções para os problemas mais comuns.
+Consulte [Protocolo e configurações do conector SMS](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) para obter mais informações sobre o protocolo SMPP, detalhes sobre configurações da conta externa ou soluções para os problemas mais comuns.
