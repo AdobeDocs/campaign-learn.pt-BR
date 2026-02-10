@@ -23,7 +23,7 @@ Você pode acessar o Adobe Campaign v8 por meio do console do cliente ou da Inte
 
 ## Acessar e explorar a interface da Web do Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453427?captions=por_br&quality=12&learn=on){transcript=true}
 
 * [Descobrir a interface](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/start/user-interface)
 * [Procurar e Filtrar Lista](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/start/list-filters)
@@ -42,7 +42,7 @@ O conceito geral de criação e gerenciamento de públicos no Campaign v8 é o m
 
 Saiba como acessar, gerenciar e explorar perfis usando a interface do Campaign Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448369?captions=por_br&quality=12&learn=on){transcript=true}
 
 Consulte [Introdução aos perfis](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} para obter mais informações.
 
@@ -50,7 +50,7 @@ Consulte [Introdução aos perfis](https://experienceleague.adobe.com/pt-br/docs
 
 Saiba como criar e gerenciar públicos-alvo, selecionar públicos-alvo para uma entrega e definir grupos de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453207?captions=por_br&quality=12&learn=on){transcript=true}
 
 Consulte [Introdução aos públicos-alvo](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} para obter mais informações.
 
@@ -106,7 +106,7 @@ Consulte a documentação do produto para com [campanhas](https://experienceleag
 
 1. Entenda como os workflows funcionam e como criar um workflow para construção do target.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453977?captions=por_br&quality=12&learn=on){transcript=true}
 
 1. [Trabalhar com atividades de fluxo de trabalho](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Medidas de proteção e limitações para fluxos de trabalho](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -117,23 +117,23 @@ Consulte a documentação do produto para com [campanhas](https://experienceleag
 
 Saiba como criar uma entrega por email do zero, definir o público-alvo, criar o conteúdo, simular a pré-visualização e enviar uma prova.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454010?captions=por_br&quality=12&learn=on){transcript=true}
 
 #### &#x200B;1. Projetar e definir conteúdo
 
 Saiba como navegar no Designer de email. Saiba como estruturar e projetar um email do zero, além de personalizá-lo e testá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453570?captions=por_br&quality=12&learn=on){transcript=true}
 
 Saiba como criar um email fazendo o upload do HTML, como torná-lo compatível com o Designer de email e como convertê-lo em um modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447037?captions=por_br&quality=12&learn=on){transcript=true}
 
 #### &#x200B;2. Pré-visualizar e testar
 
 Saiba como visualizar o conteúdo e a personalização da mensagem de email, enviar deliveries de teste (provas) e verificar a renderização de email em clientes populares de desktop, móveis e baseados na Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450342?captions=por_br&quality=12&learn=on){transcript=true}
 
 #### &#x200B;3. Enviar email e verificar logs
 
