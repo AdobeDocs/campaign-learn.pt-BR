@@ -18,7 +18,7 @@ Este tutorial fornece uma visão geral da principal funcionalidade administrativ
 
 ## Entender a arquitetura do Campaign v8
 
-Consulte [Introdução à arquitetura do Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} para entender a arquitetura do Campaign antes de começar a estruturar e organizar sua instância.
+Consulte [Introdução à arquitetura do Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} para entender a arquitetura do Campaign antes de começar a estruturar e organizar sua instância.
 
 
 ## Instalar o console do cliente
@@ -31,7 +31,7 @@ Para obter mais informações, consulte [Conectar ao Campaign com o console do c
 
 ## Configurar e gerenciar o acesso
 
-1. **[Introdução a permissões no Campaign v8.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[Introdução a permissões no Campaign v8.](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 Saiba mais sobre o modelo de permissão geral: operadores, grupos de operadores (funções), direitos nomeados e permissões de pastas.
 
 2. Saiba como gerenciar permissões de usuário no console do cliente. Saiba como
@@ -43,13 +43,13 @@ Saiba mais sobre o modelo de permissão geral: operadores, grupos de operadores 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Consulte a [documentação do produto](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obter um guia passo a passo detalhado por escrito.
+Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obter um guia passo a passo detalhado por escrito.
 
 ## Configurar sua instância
 
-* Revise as [diretrizes de implementação do Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}para saber como ajustar o Adobe Campaign aos requisitos de sua empresa e estrutura e organizar sua implementação.
-* [Canal configurado aqui](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Configuração do Experience Cloud Triggers](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* Revise as [diretrizes de implementação do Campaign](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}para saber como ajustar o Adobe Campaign aos requisitos de sua empresa e estrutura e organizar sua implementação.
+* [Canal configurado aqui](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Configuração do Experience Cloud Triggers](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Implantação
 
