@@ -138,4 +138,4 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 
 * **Testar e aprender** - um bom plano de teste é importante para garantir que seus esforços estejam tendo o efeito desejado. Saiba o que está funcionando e o que não está funcionando e iterar de acordo.
 
-Saiba mais sobre estratégia e liderança de pensamento no hub [Perspectivas](https://experienceleague.adobe.com/en/perspectives).
+Saiba mais sobre estratégia e liderança de pensamento no hub [Perspectivas](https://experienceleague.adobe.com/pt-br/perspectives).
