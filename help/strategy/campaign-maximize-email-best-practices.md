@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) 
 
 * **Testar e aprender** - um bom plano de teste é importante para garantir que seus esforços estejam tendo o efeito desejado. Saiba o que está funcionando e o que não está funcionando e iterar de acordo.
 
-Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/pt-br/docs/customer-success/customer-success/overview).
-
+Saiba mais sobre estratégia e liderança de pensamento no hub [Perspectivas](https://experienceleague.adobe.com/en/perspectives).
