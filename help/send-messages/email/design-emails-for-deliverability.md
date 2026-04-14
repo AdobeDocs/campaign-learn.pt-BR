@@ -10,8 +10,8 @@ role: User
 level: Beginner
 exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '39'
+workflow-type: ht
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,8 @@ ht-degree: 100%
 
 Saiba como aplicar as práticas recomendadas de capacidade de entrega a emails.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452008?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
 
 ## Recursos adicionais
 
-[Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
+[Guia de práticas recomendadas de capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)

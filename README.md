@@ -1,60 +1,60 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
 workflow-type: ht
-source-wordcount: '424'
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
-# Artigo do Contribute
+# Artigo de contribuição
 
-As contribuições de nossa comunidade, bem como de funcionários da Adobe que não fazem parte das equipes de documentação são bem-vindas.
+Aceitamos contribuições de nossa comunidade e de funcionários da Adobe de fora das equipes de documentação.
 
-## Código de conduta de fonte aberta da Adobe
+## Código de conduta de código aberto da Adobe
 
 Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-conduct.md) ou o [Código de conduta do .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obter mais informações, consulte o artigo [Contribuição](contributing.md).
 
 ## Sobre suas contribuições para o conteúdo da Adobe
 
-Consulte o [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
+Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
-A forma como você contribui depende de quem você é e do tipo de mudanças com as quais você gostaria de contribuir:
+A forma como você contribui depende de quem você é e do tipo de alterações com as quais deseja contribuir:
 
 ### Pequenas alterações
 
-Se você estiver contribuindo com pequenas atualizações, visite o artigo e clique no link **Editar** no artigo que vai para a fonte GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o [guia geral do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
+Caso esteja contribuindo com pequenas atualizações de livre e espontânea vontade, visite o artigo e clique no link **Editar** que vai para a origem GitHub do artigo. Em seguida, use a interface do GitHub para fazer as atualizações. Consulte o [guia geral do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
 
-Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste acordo de recompra são cobertos pelos termos de uso da Adobe.
+Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório são cobertos pelos termos de uso da Adobe.
 
 ### Alterações importantes ou novos artigos de membros da comunidade
 
-Se você fizer parte da comunidade Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório do Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Após concordar com um plano, você precisará trabalhar com um funcionário para ajudá-lo a inserir o novo conteúdo por meio de uma combinação de trabalho nos repositórios públicos e privados.
+Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar alterações importantes, use a guia Issues (Problemas) no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois de concordar com um plano, você precisará da ajuda de um funcionário para inserir o novo conteúdo por meio de uma combinação de trabalho nos repositórios públicos e privados.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Grandes alterações dos funcionários da Adobe
+### Alterações importantes de funcionários da Adobe
 
-Se você for um escritor técnico, gerente de programas ou desenvolvedor da equipe de produtos de uma solução da Adobe Experience Cloud e seu trabalho for criar ou contribuir com a criação de artigos técnicos, você deverá usar o repositório privado em `https://git.corp.adobe.com/AdobeDocs`.
+Se você for um(a) redator(a) técnico(a), gerente de programa ou desenvolvedor(a) da equipe de produtos de uma solução da Adobe Experience Cloud e seu trabalho for contribuir com ou criar artigos técnicos, utilize o repositório privado em `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## Ferramentas e configuração
 
-Os contribuidores da comunidade podem usar a interface do usuário do GitHub para a edição básica ou divisão do repositório para maiores contribuições.
+Os colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer contribuições importantes.
 
-Consulte o [Guia do colaborador Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para ver mais detalhes.
+Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais detalhes.
 
-## Como usar marcação para formatar seu tópico
+## Como usar markdown para formatar o tópico
 
-Todos os artigos neste repositório usam a remarcação com sabor do GitHub. Caso não esteja familiarizado com a marcação, consulte:
+Todos os artigos neste repositório usam markdown no estilo do GitHub. Se não tem familiaridade com markdown, consulte:
 
-* [Noções básicas de marcação](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Planilha de marcação para impressão](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Noções básicas do Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Folha de consulta do markdown para impressão](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## Etiquetas
+## Rótulos
 
-No repositório público, as etiquetas automatizadas são atribuídas a solicitações de baixa automática que ajudam a gerenciar o workflow e a saber o que está acontecendo com sua solicitação de baixa automática:
+No repositório público, os rótulos automatizados são atribuídos a solicitações de pull para nos ajudar a gerenciar o fluxo de trabalho da solicitação de pull e ajudar você a entender o que está acontecendo com sua solicitação de pull:
 
-* **Alteração enviada ao autor**: o autor foi notificado da solicitação de baixa pendente.
-* **ready-to-merge**: pronto para ser revisado pela nossa equipe de análise de solicitação de baixa automática.
+* **Alteração enviada ao autor**: o autor foi notificado sobre a solicitação de pull pendente.
+* **Pronto para mesclar**: pronto para ser revisado pela equipe de revisão da solicitação de pull.

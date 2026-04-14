@@ -8,12 +8,12 @@ landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: true
 source-git-commit: 2ad277572291313333bf8f2624460984bb5e0681
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-Consulte [Metadados](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) para obter uma lista de valores válidos para **solução**, **produto** e **tipo**.
+Consulte [Metadados](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=pt-BR) e obtenha uma lista de valores válidos de **solução**, **produto** e **tipo**.

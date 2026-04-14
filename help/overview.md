@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
-workflow-type: tm+mt
-source-wordcount: '368'
+workflow-type: ht
+source-wordcount: '406'
 ht-degree: 100%
 
 ---
@@ -50,7 +50,7 @@ Consulte
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Criar um plano de marketing</strong>
+     <strong>Criar um plano de marketing</strong>
     </a>
     </div>
     <p>
@@ -63,11 +63,11 @@ Consulte
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>Criar e projetar entregas de email</strong>
+   <strong>Criar e projetar entregas de email</strong>
     </a>
     </div>
     <p>
-    <em>Entenda o processo de criação de entrega de email e saiba como projetar e personalizar conteúdo de email.
+    <em>Saiba mais sobre o processo de criação de uma entrega de email e como projetar e personalizar conteúdo de email.
 </em>
     <p>
   </td>
@@ -106,7 +106,7 @@ Consulte
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>Princípios básicos do gerenciamento de dados com fluxos de trabalho</strong>
+     <strong>Princípios básicos do gerenciamento de dados com fluxos de trabalho</strong>
     </a>
     </div>
     <p>
@@ -119,7 +119,7 @@ Consulte
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">
-    <strong>Mecanismo de preparo da API com FFDA</strong>
+    <strong>Mecanismo de preparo de API com FFDA</strong>
     </a>
     </div>
     <p>

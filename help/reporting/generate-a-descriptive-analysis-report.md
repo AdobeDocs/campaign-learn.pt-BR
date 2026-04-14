@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: d627a665-732a-4d75-8b50-67c9efc4e7cd
 source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 75%
 
 Saiba como gerar um [!UICONTROL descriptive analysis report] a partir de um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448834?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
