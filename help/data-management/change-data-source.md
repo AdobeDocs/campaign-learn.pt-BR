@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como alterar a fonte de dados de uma tabela de trabalho do fluxo de trabalho usando a atividade Alterar fonte de dados, para gerenciar os dados de forma flexível em diferentes fontes como FDA, FFDA e banco de dados local.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449535?captions=por_br&quality=12&learn=on){transcript=true}

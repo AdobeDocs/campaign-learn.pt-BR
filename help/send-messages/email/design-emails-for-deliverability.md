@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Saiba como aplicar as práticas recomendadas de capacidade de entrega a emails.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452008?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Recursos adicionais
 
