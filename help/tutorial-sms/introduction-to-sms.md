@@ -5,13 +5,13 @@ feature: SMS
 thumbnail: 340957.jpg
 jira: KT-9743
 role: Admin, Developer
-badgeV7V8: label = “Se aplica a: v7 e v8" type="Positive" 
-last-substantial-update: 2022-08-24 
+badgeV7V8: label="Aplicável a v7 e v8" type="Positive"
+last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
-workflow-type: ht
-source-wordcount: 97
-ht-degree: 100%
+source-git-commit: 5c288f74464d2910ae5dd320c8af84987ca34f0b
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
