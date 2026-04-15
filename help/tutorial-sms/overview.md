@@ -3,7 +3,7 @@ title: Tutorial técnico - Configurar SMS para o Adobe Campaign
 description: Saiba como configurar uma conta SMS para provedores SMTP e como analisar e solucionar problemas de configuração.
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label = “Se aplica a: v7 e v8" type="Positive" 
+badgeV7V8: label="Se aplica a: v7 e v8" type="Positive" 
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
