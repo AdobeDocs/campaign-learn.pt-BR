@@ -12,9 +12,9 @@ level: Experienced
 hide: true
 hidefromtoc: true
 exl-id: 0956995a-142d-4d49-b87e-21da7b1d36b6
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Este vídeo demonstra como integrar o Dynamics 365 ao Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/327256?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on){transcript=true}
