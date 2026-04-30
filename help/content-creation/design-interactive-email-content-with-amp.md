@@ -10,9 +10,8 @@ team: TM
 role: User, Developer
 level: Experienced
 hide: true
-hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -27,6 +26,6 @@ Atualmente, apenas o Gmail, o Outlook e o Mail.ru oferecem suporte ao formato AM
 
 O vídeo abaixo explica como ativar o AMP no Adobe Campaign e mostra sua utilização.
 
->[!VIDEO](https://video.tv.adobe.com/v/33179?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=pt-BR#about-amp-for-email) para obter mais informações.
