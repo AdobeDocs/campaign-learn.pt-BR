@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como ativar um segmento da Adobe Experience Platform para um destino usando o tipo de conexão Amazon S3.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453126?captions=por_br&quality=12&learn=on){transcript=true}

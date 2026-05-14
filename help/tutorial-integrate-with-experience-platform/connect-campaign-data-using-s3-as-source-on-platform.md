@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Saiba como assimilar dados usando um conector de origem na Experience Platform para atualizar os dados do perfil com logs exportados do Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452030?captions=por_br&quality=12&learn=on){transcript=true}

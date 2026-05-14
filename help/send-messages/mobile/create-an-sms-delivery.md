@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Saiba como criar uma entrega de SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/335706?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441809?captions=por_br&quality=12&learn=on){transcript=true}

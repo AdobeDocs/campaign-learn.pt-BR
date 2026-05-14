@@ -31,5 +31,5 @@ ht-degree: 100%
 
 Saiba como criar um boletim informativo no Experience Manager e como aprová-lo e publicá-lo no Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447576?captions=por_br&quality=12&learn=on){transcript=true}
 

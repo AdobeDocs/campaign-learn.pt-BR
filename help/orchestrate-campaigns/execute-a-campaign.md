@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como executar uma campanha, revisar uma entrega de email e as propriedades de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452963?captions=por_br&quality=12&learn=on){transcript=true}

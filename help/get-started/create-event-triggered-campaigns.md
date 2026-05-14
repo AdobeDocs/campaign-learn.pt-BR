@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Saiba como criar uma campanha acionada por evento e entenda seus usos.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426639?captions=por_br&quality=12&learn=on){transcript=true}

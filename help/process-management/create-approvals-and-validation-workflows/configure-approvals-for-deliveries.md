@@ -31,4 +31,4 @@ Saiba como configurar aprovações e revisores no nível da entrega.  
 
 Configure as aprovações no nível da entrega, se as etapas de aprovação e os revisores forem diferentes entre as entregas.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437650?captions=por_br&quality=12&learn=on){transcript=true}

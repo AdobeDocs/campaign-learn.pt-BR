@@ -32,4 +32,4 @@ Ao configurar campos de conteúdo condicional, você pode criar personalização
 
 Saiba como adicionar conteúdo condicional a uma entrega no caso de um informativo multilíngue.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446716?captions=por_br&quality=12&learn=on){transcript=true}

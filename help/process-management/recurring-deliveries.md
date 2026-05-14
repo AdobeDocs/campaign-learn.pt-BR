@@ -46,10 +46,10 @@ As entregas recorrentes e contínuas diferem na maneira como os dados de contato
 
 Este vídeo explica como configurar uma entrega recorrente e uma atividade de scheduler.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446879?captions=por_br&quality=12&learn=on){transcript=true}
 
 ## Como configurar uma entrega contínua {#how-to-set-up-a-continuous-delivery}
 
 Este vídeo mostra como configurar uma entrega contínua com uma consulta incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444572?captions=por_br&quality=12&learn=on){transcript=true}

@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Entenda o conceito de listas no Adobe Campaign e saiba como criar uma lista usando a atividade de atualização de lista em um fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426464?captions=por_br&quality=12&learn=on){transcript=true}

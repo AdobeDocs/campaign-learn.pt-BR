@@ -31,4 +31,4 @@ O Adobe Campaign permite criar e hospedar várias páginas de destino em seu ser
 
 Este vídeo demonstra como navegar no editor de aplicativo web do Adobe Campaign criando uma central de preferências.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450219?captions=por_br&quality=12&learn=on){transcript=true}

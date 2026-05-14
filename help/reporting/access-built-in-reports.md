@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Entenda os relatórios e análises integrados no Adobe Campaign e saiba como gerar um relatório de entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448288?captions=por_br&quality=12&learn=on){transcript=true}

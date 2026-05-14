@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Entenda a diferença entre campanhas multicanal e entre canais e os casos de uso.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447203?captions=por_br&quality=12&learn=on){transcript=true}

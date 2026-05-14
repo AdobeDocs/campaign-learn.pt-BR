@@ -29,4 +29,4 @@ A atividade de enriquecimento é um objeto de fluxo de trabalho que adiciona dad
 
 Saiba como configurar uma atividade de enriquecimento com base nas informações de log da entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452173?captions=por_br&quality=12&learn=on){transcript=true}

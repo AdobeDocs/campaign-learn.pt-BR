@@ -32,4 +32,4 @@ O Adobe Campaign usa fluxos de trabalho para realizar campanhas de segmentação
 
 Saiba como definir vários direcionamentos de entrega usando fluxos de trabalho de segmentação.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450193?captions=por_br&quality=12&learn=on){transcript=true}

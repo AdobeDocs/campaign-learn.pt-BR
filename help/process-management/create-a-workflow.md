@@ -31,4 +31,4 @@ Os fluxos de trabalho ocorrem em vários contextos e estágios do processo de ge
 
 Este vídeo explica como criar um fluxo de trabalho no Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31834?captions=por_br&quality=12&learn=on){transcript=true}

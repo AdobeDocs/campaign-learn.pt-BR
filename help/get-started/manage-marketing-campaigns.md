@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Entenda os principais conceitos do [!UICONTROL Adobe Campaign] que ajudam a planejar, executar e medir com eficiência as campanhas de marketing entre canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449649?captions=por_br&quality=12&learn=on){transcript=true}

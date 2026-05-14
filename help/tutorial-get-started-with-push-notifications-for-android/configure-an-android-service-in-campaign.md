@@ -27,7 +27,7 @@ ht-degree: 100%
 
 Saiba como configurar um serviço [!DNL Android™] e criar um aplicativo para dispositivos móveis [!DNL Android™] no Campaign. Essa etapa é necessária a fim de definir o aplicativo para dispositivos móveis de destino para a notificação por push.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340734?captions=por_br&quality=12&learn=on){transcript=true}
 
 **Etapa anterior**
 

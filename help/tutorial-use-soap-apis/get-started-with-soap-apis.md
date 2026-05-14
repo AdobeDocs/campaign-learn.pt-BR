@@ -26,6 +26,6 @@ ht-degree: 100%
 
 Saiba como gerar um token de sessão usando o Postman para uso em solicitações de API.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449480?captions=por_br&quality=12&learn=on){transcript=true}
 
 Próximo vídeo para assistir: [Etapa 2 - Adicionar destinatários e artigos usando solicitação de API SOAP](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)
