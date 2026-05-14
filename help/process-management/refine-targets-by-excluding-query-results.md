@@ -10,9 +10,13 @@ team: TM
 role: User
 level: Intermediate
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '62'
+TQID: https://experienceleague.adobe.com/i2Qyi8nhEB3qYeutNeId4-evEJvoZGWLQbBEFm43M-o
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 62
 ht-degree: 100%
 
 ---
@@ -21,4 +25,4 @@ ht-degree: 100%
 
 Saiba como refinar o target aplicando uma exclusão padrão a um fluxo de trabalho. Saiba como criar filtros predefinidos e solucionar problemas no fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452934?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}

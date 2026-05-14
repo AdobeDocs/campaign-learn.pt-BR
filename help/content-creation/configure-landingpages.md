@@ -1,5 +1,5 @@
 ---
-title: Configurar landing pages
+title: Configurar páginas de destino
 description: Saiba como navegar no editor de aplicativo web criando uma central de preferências.
 feature: Landing Pages
 jira: KT-7945
@@ -10,17 +10,21 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/aoz5D1gwLAyVtJ6Tkh46bEJuRksmyqxRfTfY3OvRtQo
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: 57
 ht-degree: 100%
 
 ---
 
-# Configurar landing pages
+# Configurar páginas de destino
 
-O Adobe Campaign permite criar e hospedar várias landing pages em seu servidor, incluindo pesquisas online, centros de preferências e páginas de cancelamento de inscrição.
+O Adobe Campaign permite criar e hospedar várias páginas de destino em seu servidor, incluindo pesquisas online, centros de preferências e páginas de cancelamento de inscrição.
 
 Este vídeo demonstra como navegar no editor de aplicativo web do Adobe Campaign criando uma central de preferências.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450219?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
