@@ -5,10 +5,26 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
+TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+subfeature_v2:
+  - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '2242'
-ht-degree: 16%
+source-wordcount: 2242
+ht-degree: 18%
 
 ---
 
@@ -104,7 +120,7 @@ Consulte a documentação do produto para com [campanhas](https://experienceleag
 
 ### Criar um fluxo de trabalho
 
-1. Entenda como os workflows funcionam e como criar um workflow para construção do target.
+1. Entenda como os fluxos de trabalho funcionam e como criar um fluxo de trabalho de direcionamento.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3453977?captions=por_br&quality=12&learn=on){transcript=true}
 
@@ -149,8 +165,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Agendar o envio de um delivery" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Agendar o envio de um delivery"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Agendar o envio de uma entrega" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Agendar o envio de uma entrega"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +174,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="Agendar o envio de um delivery">Agendar o envio de uma entrega</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="Agendar o envio de uma entrega">Agendar o envio de uma entrega</a>
                     </p>
                     <p class="is-size-6">Saiba como agendar uma entrega</p>
                 </div>
@@ -286,11 +302,11 @@ O Adobe Campaign v8 é compatível com Android™ e iOS Push Channel. Para fazer
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Validação" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabalhar com modelos de página de aterrissagem</strong></a>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Trabalhar com modelos de página de aterrissagem</strong></a>
 </div>
 <p>
 </td>

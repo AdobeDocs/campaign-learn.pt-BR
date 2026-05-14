@@ -10,9 +10,15 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 44b12535-775e-4b67-ae75-4cbdc4ce79fe
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/aju0YZ1jf1G5omRvipEWfnm-Cbqp3OTCjNl1E7vY0DM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 60
 ht-degree: 100%
 
 ---
@@ -21,4 +27,4 @@ ht-degree: 100%
 
 Saiba como configurar a integração entre o Experience Manager e o Campaign, incluindo configurações importantes a serem observadas e possíveis &quot;armadilhas&quot; a serem evitadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445901?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445901?captions=por_br&quality=12&learn=on){transcript=true}

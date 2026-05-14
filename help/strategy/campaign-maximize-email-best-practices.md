@@ -6,9 +6,24 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
+TQID: https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: addf009e-030a-4310-8534-776a3e62ed48
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: 1474
 ht-degree: 0%
 
 ---
@@ -29,7 +44,7 @@ Como sua organização está rastreando a capacidade de entrega de suas campanha
 
 Antes de mergulhar na estratégia, é importante estar ciente dos problemas mais comuns do filtro de spam que podem afetar os resultados da campanha. Se você continuar enviando emails para assinantes inativos que não abrem seus emails por mais de um ano, veja algumas coisas que você pode estar executando:
 
-* Incluir na lista de bloqueios ➡ incluis na lista de permissões e respostas
+* ➡ incluis na lista de permissões e respostas
 * Filtros de conteúdo
 * Reputação de IP e domínio
 * Autenticação
@@ -90,7 +105,7 @@ Infelizmente, a maioria dos assinantes que enfrenta fadiga do email não vai fac
 
 Com isso em mente, veja algumas práticas recomendadas para manter os assinantes envolvidos e antecipar o tipo de conteúdo que desejam receber, a fim de evitar cancelamentos de assinatura e públicos inativos.
 
-### &#x200B;1. Criar uma estratégia para a frequência de email
+### &#x200B;1. Criar uma estratégia para frequência de email
 
 Infelizmente, não há resposta certa sobre quantos emails devem ser enviados por semana. Para localizar o número correto, considere os seguintes itens:
 
@@ -102,7 +117,7 @@ Infelizmente, não há resposta certa sobre quantos emails devem ser enviados po
 * Qual é a capacidade do seu cliente para receber conteúdo da sua marca?
 * Quais são as preferências sazonais do seu cliente?
 
-### &#x200B;2. Identifique o status dos assinantes
+### &#x200B;2. Identificar o status dos assinantes
 
 O status dos assinantes (ativo, expirado ou inativo) depende da frequência com que você está enviando o conteúdo. A partir daí, você pode determinar o quanto eles estão envolvidos.
 
