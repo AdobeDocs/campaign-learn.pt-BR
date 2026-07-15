@@ -3,13 +3,13 @@ title: Tutorial técnico - Configurar SMS para o Adobe Campaign
 description: Saiba como configurar uma conta SMS para provedores SMTP e como analisar e solucionar problemas de configuração.
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label="Aplicável a v7 e v8" type="Positive"
+badgeV7V8: label="Aplicável às versões v7 e v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -22,14 +22,11 @@ Os seguintes tópicos são abordados:
 * **[Introdução ao SMS](/help/tutorial-sms/introduction-to-sms.md)**:
   *Saiba como o SMS funciona e como o Adobe Campaign envia SMS*
 
-* **[Configurar uma conta SMS para um provedor SMPP padrão](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-  *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão.  Saiba como configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
+* **[Configurar uma conta SMS para um provedor SMPP padrão  *Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão.  Saiba como configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS.*
 
-* **[Adaptar o conector SMS ao provedor SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-  *Saiba como ajustar as configurações de SMS para lidar com limites de conexão. Saiba como configurar a taxa de transferência máxima, uma janela de envio e a criptografia com TLS.*
+* **[Adaptar o conector SMS ao provedor SMPP  *Saiba como ajustar as configurações de SMS para lidar com limites de conexão. Saiba como configurar a taxa de transferência máxima, uma janela de envio e a criptografia com TLS.*
 
-* **[Solução de problemas e detalhamentos do protocolo SMPP](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-  *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
+* **[Solução de problemas e detalhamentos do protocolo SMPP  *Saiba como as conexões SMPP são estabelecidas e como o SMPP troca dados por meio de PDUs. Saiba como solucionar problemas de conexão.*
 
 >[!NOTE]
 >
