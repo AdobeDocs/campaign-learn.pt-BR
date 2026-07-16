@@ -6,9 +6,9 @@ user-guide-description: Saiba como usar os recursos e as funcionalidades do Cons
 breadcrumb-title: Console do cliente – Tutoriais
 auto-video-transcripts: true
 source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 94%
       + [Personalizar emails usando blocos de conteúdo dinâmico](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [Personalizar emails usando campos de personalização](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Criar um informativo multilíngue usando conteúdo condicional](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + {hide-from-toc}[Definir Conteúdo de Email Interativo com o AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[Definir conteúdo interativo para emails com AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configurar páginas de destino](/help/content-creation/configure-landingpages.md)
    + [Criar uma pesquisa](/help/content-creation/create-a-survey.md)
 + Enviar mensagens{#sending-messages}
@@ -55,8 +55,8 @@ ht-degree: 94%
    + SMS {#sms}
       + [Crie uma entrega de SMS.](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
-      + {hide-from-toc}[Instalar o Canal de Aplicativo Móvel](/help/send-messages/mobile/install-the-mobile-app.md)
-      + {hide-from-toc}[Configurar o canal de push usando o Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[Instalar o canal do aplicativo para dispositivos móveis](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[Configurar o canal de notificação por push usando o SDK móvel da Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Correspondência direta {#direct-mail}
       + [Criar entregas de correspondência direta](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Usar modelos de entrega{#using-delivery-templates}
@@ -94,7 +94,7 @@ ht-degree: 94%
    + [Integração com o Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=pt-BR)
    + [Integração com a Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=pt-BR)
    + [Integração com o Adobe Target](/help/connect/target-integration.md)
-   + {hide-from-toc}[Integrar ao Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[Integração com o Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Relatórios {#reporting}
    + [Acessar relatórios integrados](/help/reporting/access-built-in-reports.md)
    + [Gerar um relatório de análise descritiva](/help/reporting/generate-a-descriptive-analysis-report.md)

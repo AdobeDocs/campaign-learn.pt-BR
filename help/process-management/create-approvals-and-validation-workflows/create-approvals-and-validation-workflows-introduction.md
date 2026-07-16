@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 267
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -43,6 +43,6 @@ Se você tiver o mesmo conjunto de revisores para todas as entregas no fluxo de 
 2. [Configurar aprovações para entregas](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md):
 Você também pode configurar aprovações em um nível de entrega. Se as etapas de aprovação de entrega e os revisores forem diferentes das etapas de aprovação da campanha e seus revisores, as configurações de entrega substituirão as configurações da campanha.
 3. [Criar um processo de aprovação em um fluxo de trabalho](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):
-A atividade de aprovação permite a criação de um processo de aprovação dentro de um workflow. Dessa forma, a lógica de seleção de direcionamento pode ser aprovada antes que a entrega seja iniciada. Ela também permite a aprovação em vários níveis no fluxo de trabalho, se necessário.
+A atividade de aprovação permite a criação de um processo de aprovação dentro de um fluxo de trabalho. Dessa forma, a lógica de seleção de direcionamento pode ser aprovada antes que a entrega seja iniciada. Ela também permite a aprovação em vários níveis no fluxo de trabalho, se necessário.
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=pt-BR).
