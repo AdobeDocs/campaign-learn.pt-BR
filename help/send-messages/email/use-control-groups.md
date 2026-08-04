@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Entenda o conceito de grupos de controle e saiba como usar um grupo de controle no sua entrega.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446923?captions=por_br&quality=12&learn=on){transcript=true}
