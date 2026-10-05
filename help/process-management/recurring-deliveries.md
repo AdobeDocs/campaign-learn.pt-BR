@@ -10,20 +10,29 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-TQID: https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM
+TQID: 'https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Intermediate
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 233
+source-wordcount: '233'
 ht-degree: 100%
-
 ---
-
 # Criar entregas de email recorrentes e contínuas
 
 Este tutorial explica como configurar uma entrega recorrente e contínua e as diferenças entre as duas abordagens.
@@ -46,10 +55,10 @@ As entregas recorrentes e contínuas diferem na maneira como os dados de contato
 
 Este vídeo explica como configurar uma entrega recorrente e uma atividade de scheduler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446879?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## Como configurar uma entrega contínua {#how-to-set-up-a-continuous-delivery}
 
 Este vídeo mostra como configurar uma entrega contínua com uma consulta incremental.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444572?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
