@@ -8,27 +8,44 @@ level: Beginner
 jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00.000Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-TQID: https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA
+TQID: 'https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Administration
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 1354
+source-wordcount: '1354'
 ht-degree: 100%
-
 ---
-
 # Dez práticas recomendadas para o sucesso de profissionais de marketing no [!DNL Adobe Campaign]
 
 Christian Klimczyk se autodescreve como um “nerd em Adobe”, e possui sete anos de experiência com a [!DNL Adobe Experience Cloud], focados principalmente no [!DNL Adobe Campaign]. Como proprietário de uma plataforma Adobe para uma grande empresa de CPG, Christian e sua equipe usam o [!DNL Campaign] para todas suas comunicações e interações com os consumidores. Eles coordenam e gerenciam com facilidade os requisitos de alta regulamentação e as campanhas de marketing multicanal de consumidores por correspondência direta, email e SMS/MMS.
