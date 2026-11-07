@@ -46,4 +46,4 @@ Saiba como configurar e gerenciar permissões de usuário no Campaign v8:
 * Direitos nomeados
 * Adicionar permissões no nível da pasta
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505214/?captions=por_br&learn=on)
