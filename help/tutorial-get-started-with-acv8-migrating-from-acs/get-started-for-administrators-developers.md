@@ -70,7 +70,7 @@ Saiba mais sobre o modelo de permissão geral: operadores, grupos de operadores 
    * Criar grupos de operadores e atribuir direitos nomeados
    * Mapear grupos de operadores de perfis de produto
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505214/?captions=por_br&learn=on)
 
 Consulte a [documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} para obter um guia passo a passo detalhado por escrito.
 
